@@ -1,5 +1,6 @@
 import requests
 import os
+print("VERSI BARU 17 JUNI")
 
 TOKEN = os.getenv("BOT_TOKEN")
 CHAT_ID = os.getenv("CHAT_ID")
