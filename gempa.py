@@ -31,11 +31,11 @@ def read_sent(filename):
 
     with open(filename, "r", encoding="utf-8") as f:
         return set(line.strip() for line in f if line.strip())
-```
+
 
 def save_sent(filename, item_id):
-with open(filename, "a", encoding="utf-8") as f:
-f.write(item_id + "\n")
+    with open(filename, "a", encoding="utf-8") as f:
+        f.write(item_id + "\n")
 
 # ===================================================
 
