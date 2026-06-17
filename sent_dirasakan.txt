@@ -14,3 +14,4 @@
 16 Jun 202617:23:51 WIB4.0Pusat gempa berada di laut 90 km barat Ternate
 16 Jun 202618:03:51 WIB4.7Pusat gempa berada di darat 48 km timur Sigi
 17 Jun 202601:29:38 WIB5.1Pusat gempa berada di darat 54 km barat laut Poso
+17 Jun 202608:08:01 WIB3.6Pusat gempa berada di darat 8 km timur Waikabubak
