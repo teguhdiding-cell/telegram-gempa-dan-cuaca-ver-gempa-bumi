@@ -15,3 +15,5 @@
 16 Jun 202618:03:51 WIB4.7Pusat gempa berada di darat 48 km timur Sigi
 17 Jun 202601:29:38 WIB5.1Pusat gempa berada di darat 54 km barat laut Poso
 17 Jun 202608:08:01 WIB3.6Pusat gempa berada di darat 8 km timur Waikabubak
+17 Jun 202610:44:16 WIB5.0Pusat gempa berada di darat 10 km timur laut Waikabubak
+17 Jun 202616:44:47 WIB3.9Pusat gempa berada di laut 85 km barat Jantho
