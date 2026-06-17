@@ -45,7 +45,6 @@ def save_sent(filename, item_id):
 
 try:
 
-```
 url = "https://data.bmkg.go.id/DataMKG/TEWS/autogempa.json"
 
 data = requests.get(url, timeout=30).json()
@@ -113,7 +112,6 @@ except Exception as e:
 
 try:
 
-```
 url = "https://data.bmkg.go.id/DataMKG/TEWS/gempaterkini.json"
 
 data = requests.get(url, timeout=30).json()
@@ -132,7 +130,6 @@ for gempa in reversed(data["Infogempa"]["gempa"]):
     if gempa_id not in sent:
 
         pesan = f"""
-```
 
 📋 GEMPA TERKINI BMKG
 
@@ -156,14 +153,12 @@ Sumber: BMKG
 #GempaTerkini
 """
 
-```
         send_message(pesan)
 
         save_sent(
             "sent_terkini.txt",
             gempa_id
         )
-```
 
 except Exception as e:
 print("TERKINI ERROR:", e)
@@ -176,7 +171,6 @@ print("TERKINI ERROR:", e)
 
 try:
 
-```
 url = "https://data.bmkg.go.id/DataMKG/TEWS/gempadirasakan.json"
 
 data = requests.get(url, timeout=30).json()
@@ -195,7 +189,6 @@ for gempa in reversed(data["Infogempa"]["gempa"]):
     if gempa_id not in sent:
 
         pesan = f"""
-```
 
 👥 GEMPA DIRASAKAN BMKG
 
@@ -219,14 +212,12 @@ Sumber: BMKG
 #GempaDirasakan
 """
 
-```
         send_message(pesan)
 
         save_sent(
             "sent_dirasakan.txt",
             gempa_id
         )
-```
 
 except Exception as e:
 print("DIRASAKAN ERROR:", e)
