@@ -16,6 +16,18 @@ def send_message(text):
     )
 
 
+def send_photo(photo_url, caption):
+    requests.post(
+        f"https://api.telegram.org/bot{TOKEN}/sendPhoto",
+        data={
+            "chat_id": CHAT_ID,
+            "photo": photo_url,
+            "caption": caption
+        },
+        timeout=30
+    )
+
+
 def read_sent(filename):
     if not os.path.exists(filename):
         return set()
@@ -49,9 +61,11 @@ try:
 
     sent = read_sent("last_quake.txt")
 
-    if gempa_id not in sent:
+   if gempa_id not in sent:
 
-        pesan = f"""
+    shakemap = gempa.get("Shakemap", "")
+
+    caption = f"""
 🚨 GEMPA TERBARU BMKG
 
 📍 Lokasi
@@ -74,9 +88,20 @@ Sumber: BMKG
 #GempaIndonesia
 """
 
-        send_message(pesan)
-        save_sent("last_quake.txt", gempa_id)
+    if shakemap:
 
+        photo_url = (
+            "https://data.bmkg.go.id/DataMKG/TEWS/"
+            + shakemap
+        )
+
+        send_photo(photo_url, caption)
+
+    else:
+        send_message(caption)
+
+    save_sent("last_quake.txt", gempa_id)
+       
 except Exception as e:
     print("AUTOGEMPA ERROR:", e)
 
