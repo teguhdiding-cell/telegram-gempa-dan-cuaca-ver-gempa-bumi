@@ -67,8 +67,6 @@ if gempa_id not in sent:
     shakemap = gempa.get("Shakemap", "")
 
     caption = f"""
-```
-
 🚨 GEMPA TERBARU BMKG
 
 📍 Lokasi
@@ -91,7 +89,6 @@ Sumber: BMKG
 #GempaIndonesia
 """
 
-```
     if shakemap:
 
         photo_url = (
@@ -105,10 +102,9 @@ Sumber: BMKG
         send_message(caption)
 
     save_sent("last_quake.txt", gempa_id)
-```
 
 except Exception as e:
-print("AUTOGEMPA ERROR:", e)
+    print("AUTOGEMPA ERROR:", e)
 
 # ===================================================
 
