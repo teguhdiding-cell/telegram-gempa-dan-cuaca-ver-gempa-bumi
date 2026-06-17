@@ -61,7 +61,7 @@ try:
 
     sent = read_sent("last_quake.txt")
 
-   if gempa_id not in sent:
+if gempa_id not in sent:
 
     shakemap = gempa.get("Shakemap", "")
 
@@ -98,6 +98,7 @@ Sumber: BMKG
         send_photo(photo_url, caption)
 
     else:
+        
         send_message(caption)
 
     save_sent("last_quake.txt", gempa_id)
