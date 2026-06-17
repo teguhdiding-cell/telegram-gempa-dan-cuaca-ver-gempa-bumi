@@ -5,33 +5,32 @@ TOKEN = os.getenv("BOT_TOKEN")
 CHAT_ID = os.getenv("CHAT_ID")
 
 def send_message(text):
-requests.post(
-f"https://api.telegram.org/bot{TOKEN}/sendMessage",
-data={
-"chat_id": CHAT_ID,
-"text": text
-},
-timeout=30
-)
+    requests.post(
+        f"https://api.telegram.org/bot{TOKEN}/sendMessage",
+        data={
+            "chat_id": CHAT_ID,
+            "text": text
+        },
+        timeout=30
+    )
 
 def send_photo(photo_url, caption):
-requests.post(
-f"https://api.telegram.org/bot{TOKEN}/sendPhoto",
-data={
-"chat_id": CHAT_ID,
-"photo": photo_url,
-"caption": caption
-},
-timeout=30
-)
+    requests.post(
+        f"https://api.telegram.org/bot{TOKEN}/sendPhoto",
+        data={
+            "chat_id": CHAT_ID,
+            "photo": photo_url,
+            "caption": caption
+        },
+        timeout=30
+    )
 
 def read_sent(filename):
-if not os.path.exists(filename):
-return set()
+    if not os.path.exists(filename):
+        return set()
 
-```
-with open(filename, "r", encoding="utf-8") as f:
-    return set(line.strip() for line in f if line.strip())
+    with open(filename, "r", encoding="utf-8") as f:
+        return set(line.strip() for line in f if line.strip())
 ```
 
 def save_sent(filename, item_id):
