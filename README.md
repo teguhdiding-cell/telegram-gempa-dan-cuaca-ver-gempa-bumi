@@ -1,0 +1,1 @@
+# telegram-gempa-dan-cuaca-ver-gempa-bumi
