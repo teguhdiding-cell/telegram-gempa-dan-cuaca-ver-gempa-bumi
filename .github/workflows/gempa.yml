@@ -10,6 +10,9 @@ jobs:
   check-earthquake:
     runs-on: ubuntu-latest
 
+    permissions:
+      contents: write
+
     steps:
       - name: Checkout
         uses: actions/checkout@v4
@@ -29,3 +32,14 @@ jobs:
           CHAT_ID: ${{ secrets.CHAT_ID }}
         run: |
           python gempa.py
+
+      - name: Save history
+        run: |
+          git config --global user.name github-actions
+          git config --global user.email github-actions@github.com
+
+          git add *.txt
+
+          git diff --cached --quiet || git commit -m "update history"
+
+          git push
