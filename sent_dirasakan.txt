@@ -17,3 +17,9 @@
 17 Jun 202608:08:01 WIB3.6Pusat gempa berada di darat 8 km timur Waikabubak
 17 Jun 202610:44:16 WIB5.0Pusat gempa berada di darat 10 km timur laut Waikabubak
 17 Jun 202616:44:47 WIB3.9Pusat gempa berada di laut 85 km barat Jantho
+18 Jun 202610:25:54 WIB3.0Pusat gempa berada di darat 40 km Timur laut Sigi
+18 Jun 202611:46:28 WIB2.3Pusat gempa berada di darat 40 km Timur Laut Sigi
+18 Jun 202611:53:42 WIB3.2Pusat gempa berada di darat 41 km Timur Laut Sigi
+18 Jun 202612:02:37 WIB2.2Pusat gempa berada di darat 35 km Timur Laut Sigi
+18 Jun 202613:18:14 WIB2.2Pusat gempa berada di darat 42 km timur laut Sigi
+18 Jun 202617:08:13 WIB2.7Pusat gempa berada di darat 11 km barat Kabupaten Bener Meriah
