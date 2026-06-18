@@ -23,3 +23,9 @@
 18 Jun 202612:02:37 WIB2.2Pusat gempa berada di darat 35 km Timur Laut Sigi
 18 Jun 202613:18:14 WIB2.2Pusat gempa berada di darat 42 km timur laut Sigi
 18 Jun 202617:08:13 WIB2.7Pusat gempa berada di darat 11 km barat Kabupaten Bener Meriah
+18 Jun 202619:17:00 WIB3.7Pusat gempa berada di laut 214 km barat laut Pulau Karatung
+18 Jun 202620:39:04 WIB4.7Pusat gempa berada di darat 46 Km timur laut Sigi
+18 Jun 202620:45:08 WIB4.5Pusat gempa berada di laut 42 Km utara Buol
+18 Jun 202623:50:34 WIB4.5Pusat gempa berada di laut 130 km utara Tahuna-Kep. Sangihe
+19 Jun 202603:26:45 WIB4.4Pusat gempa berada di darat 44 km timur laut Sigi
+19 Jun 202603:29:27 WIB4.0Pusat gempa berada di darat 43 km timur laut Sigi
