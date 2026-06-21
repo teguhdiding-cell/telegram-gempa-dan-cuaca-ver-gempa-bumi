@@ -39,3 +39,6 @@
 20 Jun 202610:03:59 WIB2.7Pusat gempa berada di darat 31 km timur laut Sigi
 20 Jun 202610:25:59 WIB4.3Pusat gempa berada di laut 79 km barat daya Pariaman
 20 Jun 202616:10:46 WIB3.1Pusat gempa berada di darat 32 km Timur Laut Sigi
+21 Jun 202609:33:29 WIB4.7Pusat gempa berada di laut 71 km barat daya Padang
+21 Jun 202612:52:47 WIB3.8Pusat gempa berada di darat 38 km timur laut Sigi
+21 Jun 202614:41:00 WIB4.1Pusat gempa berada di darat 37 km utara Sigi
