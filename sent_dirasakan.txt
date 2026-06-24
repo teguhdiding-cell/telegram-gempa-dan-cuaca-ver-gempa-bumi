@@ -46,3 +46,5 @@
 23 Jun 202623:15:10 WIB2.3Pusat gempa berada di darat 8 km barat laut Tanggamus
 24 Jun 202603:47:49 WIB3.2Pusat gempa berada di darat 7 km barat Kab. Cianjur
 24 Jun 202604:08:50 WIB2.4Pusat gempa berada di darat 11 km barat daya Kab. Cianjur
+24 Jun 202613:18:15 WIB3.4Pusat gempa berada di laut 32 km barat daya Buton Utara
+24 Jun 202616:00:32 WIB4.4Pusat gempa berada di darat 39 km Timur Laut Sigi
