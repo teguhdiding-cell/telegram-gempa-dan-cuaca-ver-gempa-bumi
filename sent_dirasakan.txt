@@ -53,3 +53,5 @@
 26 Jun 202618:27:47 WIB3.6Pusat gempa berada di laut 3 km barat daya Teluk Wondama
 26 Jun 202618:34:39 WIB6.8Pusat gempa berada di laut 196 km barat laut Tahuna-Kep.Sangihe
 26 Jun 202620:47:15 WIB4.0Pusat gempa berada di darat 49 km timur Sigi
+27 Jun 202611:01:48 WIB4.1Pusat gempa berada di laut 18 km barat Kab. Aceh Selatan
+27 Jun 202611:08:45 WIB3.6Pusat gempa berada di laut 16 km barat Kab. Aceh Selatan
