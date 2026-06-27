@@ -55,3 +55,4 @@
 26 Jun 202620:47:15 WIB4.0Pusat gempa berada di darat 49 km timur Sigi
 27 Jun 202611:01:48 WIB4.1Pusat gempa berada di laut 18 km barat Kab. Aceh Selatan
 27 Jun 202611:08:45 WIB3.6Pusat gempa berada di laut 16 km barat Kab. Aceh Selatan
+27 Jun 202614:47:21 WIB5.6Pusat gempa berada di laut 86 km tenggara Pacitan
