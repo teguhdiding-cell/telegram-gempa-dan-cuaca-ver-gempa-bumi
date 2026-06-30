@@ -59,3 +59,6 @@
 27 Jun 202622:13:01 WIB3.0Pusat gempa berada di darat 6 km Timur Laut Waikabubak
 28 Jun 202604:10:33 WIB4.9Pusat gempa berada di laut 82 km selatan Tanggamus
 30 Jun 202611:46:45 WIB3.5Pusat gempa berada di darat 51 km Barat Laut Maba
+01 Jul 202600:05:30 WIB4.4Pusat gempa berada di darat 35 km timur laut Sigi
+01 Jul 202601:25:40 WIB4.5Pusat gempa berada di laut 54 km Timur Laut Konawe Kepulauan
+01 Jul 202602:53:22 WIB4.0Pusat gempa berada di darat 42 km Timur Laut Sigi
