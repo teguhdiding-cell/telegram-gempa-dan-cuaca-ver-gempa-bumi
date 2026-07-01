@@ -62,3 +62,5 @@
 01 Jul 202600:05:30 WIB4.4Pusat gempa berada di darat 35 km timur laut Sigi
 01 Jul 202601:25:40 WIB4.5Pusat gempa berada di laut 54 km Timur Laut Konawe Kepulauan
 01 Jul 202602:53:22 WIB4.0Pusat gempa berada di darat 42 km Timur Laut Sigi
+01 Jul 202603:57:52 WIB3.2Pusat gempa berada di darat 50 km selatan Kab. Sukabumi
+01 Jul 202607:31:36 WIB2.0Pusat gempa berada di darat 11 km barat laut Kendari
