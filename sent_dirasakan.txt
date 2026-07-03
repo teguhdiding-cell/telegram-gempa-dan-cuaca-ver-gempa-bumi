@@ -68,3 +68,4 @@
 03 Jul 202609:31:29 WIB6.2Pusat gempa berada di laut 58 km barat daya Pulau Doi
 03 Jul 202611:05:35 WIB3.3Pusat gempa berada di darat 7 km tenggara Lombok Utara
 03 Jul 202612:19:32 WIB2.6Pusat gempa berada di darat 4 km Timur laut Tapanuli Utara
+03 Jul 202620:38:08 WIB2.8Pusat gempa berada di darat 5 km utara Tanggamus

@@ -23,3 +23,4 @@
 01 Jul 202607:31:36 WIB2.0Pusat gempa berada di darat 11 km barat laut Kendari
 02 Jul 202608:21:12 WIB4.4Pusat gempa berada di darat 30 km Selatan Genyem Jayapura
 03 Jul 202612:19:32 WIB2.6Pusat gempa berada di darat 4 km Timur laut Tapanuli Utara
+03 Jul 202620:38:08 WIB2.8Pusat gempa berada di darat 5 km utara Tanggamus
