@@ -22,3 +22,4 @@
 01 Jul 202602:53:22 WIB4.0Pusat gempa berada di darat 42 km Timur Laut Sigi
 01 Jul 202607:31:36 WIB2.0Pusat gempa berada di darat 11 km barat laut Kendari
 02 Jul 202608:21:12 WIB4.4Pusat gempa berada di darat 30 km Selatan Genyem Jayapura
+03 Jul 202612:19:32 WIB2.6Pusat gempa berada di darat 4 km Timur laut Tapanuli Utara
