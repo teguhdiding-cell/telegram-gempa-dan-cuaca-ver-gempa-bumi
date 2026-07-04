@@ -70,3 +70,4 @@
 03 Jul 202612:19:32 WIB2.6Pusat gempa berada di darat 4 km Timur laut Tapanuli Utara
 03 Jul 202620:38:08 WIB2.8Pusat gempa berada di darat 5 km utara Tanggamus
 04 Jul 202600:14:49 WIB4.5Pusat gempa berada di darat 8 km timur laut Waikabubak
+04 Jul 202615:55:52 WIB4.9Pusat gempa berada di darat 25 km timur laut Burmeso
