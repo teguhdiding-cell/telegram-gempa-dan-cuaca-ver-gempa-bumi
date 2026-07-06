@@ -28,3 +28,4 @@
 04 Jul 202615:55:52 WIB4.9Pusat gempa berada di darat 25 km timur laut Burmeso
 05 Jul 202603:54:52 WIB3.7Pusat gempa berada di laut 63 km tenggara Kabupaten Sukabumi
 06 Jul 202617:51:28 WIB3.8Pusat gempa berada di laut 34 km Timur Laut Kota Sorong
+07 Jul 202601:47:27 WIB4.3Pusat gempa berada di darat 52 km Timur Laut Luwu Utara
