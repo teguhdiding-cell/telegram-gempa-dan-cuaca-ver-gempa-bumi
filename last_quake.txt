@@ -30,3 +30,4 @@
 06 Jul 202617:51:28 WIB3.8Pusat gempa berada di laut 34 km Timur Laut Kota Sorong
 07 Jul 202601:47:27 WIB4.3Pusat gempa berada di darat 52 km Timur Laut Luwu Utara
 07 Jul 202614:16:27 WIB5.6Pusat gempa berada di laut 101 km barat laut Pulau Doi
+07 Jul 202623:57:28 WIB2.1Pusat gempa berada di darat 10 Km barat Kab. Bener Meriah
