@@ -84,3 +84,4 @@
 09 Jul 202608:09:36 WIB4.7Pusat gempa berada di laut 50 km Selatan Polewali Mandar
 09 Jul 202610:26:42 WIB4.4Pusat gempa berada di laut 25 km TimurLaut Jayapura
 09 Jul 202612:10:59 WIB2.6Pusat gempa berada di darat 16 km Timur Laut Kota Cimahi
+10 Jul 202617:18:45 WIB1.7Pusat gempa berada di darat 9 km Barat Daya Kolaka Timur

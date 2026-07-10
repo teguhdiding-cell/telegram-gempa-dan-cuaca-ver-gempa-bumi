@@ -33,3 +33,4 @@
 07 Jul 202623:57:28 WIB2.1Pusat gempa berada di darat 10 Km barat Kab. Bener Meriah
 08 Jul 202602:44:53 WIB5.5Pusat gempa berada di laut 52 km Baratdaya Sumur
 09 Jul 202612:10:59 WIB2.6Pusat gempa berada di darat 16 km Timur Laut Kota Cimahi
+10 Jul 202617:18:45 WIB1.7Pusat gempa berada di darat 9 km Barat Daya Kolaka Timur
