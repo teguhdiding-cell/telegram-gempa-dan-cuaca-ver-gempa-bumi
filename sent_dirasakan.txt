@@ -86,3 +86,4 @@
 09 Jul 202612:10:59 WIB2.6Pusat gempa berada di darat 16 km Timur Laut Kota Cimahi
 10 Jul 202617:18:45 WIB1.7Pusat gempa berada di darat 9 km Barat Daya Kolaka Timur
 11 Jul 202600:48:33 WIB3.7Pusat gempa berada di darat 13 km timur laut Luwu Timur
+11 Jul 202619:47:31 WIB4.3Pusat gempa berada di laut 82 km tenggara Kota Sukabumi
