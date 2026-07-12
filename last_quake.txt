@@ -38,3 +38,4 @@
 11 Jul 202619:47:31 WIB4.3Pusat gempa berada di laut 82 km tenggara Kota Sukabumi
 12 Jul 202600:49:28 WIB5.1147 km BaratLaut TAHUNA-KEP.SANGIHE-SULUT
 12 Jul 202620:46:35 WIB5.4Pusat gempa berada di laut 37 km Timur Laut Buol
+12 Jul 202623:40:27 WIB4.0Pusat gempa berada di darat 18 km timur laut Kab. Gayo Lues
