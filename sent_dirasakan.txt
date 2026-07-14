@@ -94,3 +94,4 @@
 13 Jul 202616:07:12 WIB2.8Pusat gempa berada di darat 9 km Selatan Kolaka Timur
 13 Jul 202619:06:26 WIB4.1Pusat gempa berada di laut 28 km Timur Laut Jembrana
 14 Jul 202616:52:32 WIB4.2Pusat gempa berada di darat 11 km Timur Laut Waikabubak
+14 Jul 202622:49:37 WIB6.2Pusat gempa berada di laut 198 km BaratLaut TAHUNA-KEP.SANGIHE
