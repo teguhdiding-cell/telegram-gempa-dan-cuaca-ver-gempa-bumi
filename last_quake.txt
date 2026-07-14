@@ -40,3 +40,4 @@
 12 Jul 202620:46:35 WIB5.4Pusat gempa berada di laut 37 km Timur Laut Buol
 12 Jul 202623:40:27 WIB4.0Pusat gempa berada di darat 18 km timur laut Kab. Gayo Lues
 13 Jul 202619:06:26 WIB4.1Pusat gempa berada di laut 28 km Timur Laut Jembrana
+14 Jul 202616:52:32 WIB4.2Pusat gempa berada di darat 11 km Timur Laut Waikabubak
