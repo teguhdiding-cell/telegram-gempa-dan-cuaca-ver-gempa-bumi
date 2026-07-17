@@ -98,3 +98,4 @@
 16 Jul 202600:37:36 WIB3.4Pusat gempa berada di darat 91 km tenggara Berau
 17 Jul 202607:32:50 WIB3.8Pusat gempa berada di darat 30 km timur laut Toli-Toli
 17 Jul 202621:16:14 WIB3.4Pusat gempa berada di darat 37 km Timur laut Sigi
+18 Jul 202600:43:34 WIB3.3Pusat gempa berada di darat 7 km tenggara Nabire
