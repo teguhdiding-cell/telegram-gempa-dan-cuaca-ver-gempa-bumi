@@ -96,3 +96,4 @@
 14 Jul 202616:52:32 WIB4.2Pusat gempa berada di darat 11 km Timur Laut Waikabubak
 14 Jul 202622:49:37 WIB6.2Pusat gempa berada di laut 198 km BaratLaut TAHUNA-KEP.SANGIHE
 16 Jul 202600:37:36 WIB3.4Pusat gempa berada di darat 91 km tenggara Berau
+17 Jul 202607:32:50 WIB3.8Pusat gempa berada di darat 30 km timur laut Toli-Toli
