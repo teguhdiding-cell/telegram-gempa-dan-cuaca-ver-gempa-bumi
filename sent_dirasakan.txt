@@ -102,3 +102,4 @@
 18 Jul 202607:50:04 WIB4.7Pusat gempa berada di laut 71 Km barat daya Airbangis, Pasaman Barat
 18 Jul 202610:10:44 WIB2.9Pusat gempa berada di darat 6 Km barat laut Bukittinggi
 18 Jul 202611:58:50 WIB3.1Pusat gempa berada di darat 7 km barat laut Bukittinggi
+18 Jul 202620:14:43 WIB3.2Pusat gempa berada di darat 38 km timur laut Sigi
