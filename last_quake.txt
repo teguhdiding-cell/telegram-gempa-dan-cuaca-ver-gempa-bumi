@@ -47,3 +47,4 @@
 17 Jul 202621:16:14 WIB3.4Pusat gempa berada di darat 37 km Timur laut Sigi
 18 Jul 202600:43:34 WIB3.3Pusat gempa berada di darat 7 km tenggara Nabire
 18 Jul 202610:10:44 WIB2.9Pusat gempa berada di darat 6 Km barat laut Bukittinggi
+18 Jul 202611:58:50 WIB3.1Pusat gempa berada di darat 7 km barat laut Bukittinggi
