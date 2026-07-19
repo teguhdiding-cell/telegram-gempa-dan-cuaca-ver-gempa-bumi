@@ -50,3 +50,4 @@
 18 Jul 202611:58:50 WIB3.1Pusat gempa berada di darat 7 km barat laut Bukittinggi
 18 Jul 202620:14:43 WIB3.2Pusat gempa berada di darat 38 km timur laut Sigi
 19 Jul 202602:55:40 WIB3.8Pusat gempa berada di laut 47 km timur Kuta Selatan
+19 Jul 202615:11:09 WIB5.0Pusat gempa berada di laut 79 km barat daya Sukabumi
