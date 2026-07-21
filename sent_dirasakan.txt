@@ -106,3 +106,4 @@
 18 Jul 202619:54:38 WIB3.3Pusat gempa berada di laut 37 km utara Buol
 19 Jul 202602:55:40 WIB3.8Pusat gempa berada di laut 47 km timur Kuta Selatan
 19 Jul 202615:11:09 WIB5.0Pusat gempa berada di laut 79 km barat daya Sukabumi
+21 Jul 202619:10:00 WIB3.8Pusat gempa berada di laut 11 km Tenggara Manokwari
