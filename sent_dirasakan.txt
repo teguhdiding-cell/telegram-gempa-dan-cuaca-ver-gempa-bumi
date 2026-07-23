@@ -116,3 +116,4 @@
 22 Jul 202621:22:12 WIB3.9Pusat gempa berada didarat 51Km Timur Laut Sumbawa
 23 Jul 202600:36:41 WIB4.4Pusat gempa berada di darat 43 km Timur Laut Kab. Gayo Lues
 23 Jul 202602:37:14 WIB4.3Pusat gempa berada didarat 51 Km Timur Laut Sumbawa
+23 Jul 202607:07:21 WIB3.7Pusat gempa berada di laut 26 km utara Kota Sorong
