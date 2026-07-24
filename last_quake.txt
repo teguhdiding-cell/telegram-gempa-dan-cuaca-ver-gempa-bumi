@@ -65,3 +65,4 @@
 24 Jul 202608:03:07 WIB4.4Pusat gempa berada di darat 30 km timurlaut Toli-Toli
 24 Jul 202619:14:29 WIB5.561 km Tenggara SARMI-PAPUA
 25 Jul 202600:28:06 WIB4.7Pusat gempa berada di laut 59 km selatan Pesisir Barat
+25 Jul 202602:22:03 WIB2.0Pusat gempa berada di darat 11 km barat laut Kab. Bener Meriah
