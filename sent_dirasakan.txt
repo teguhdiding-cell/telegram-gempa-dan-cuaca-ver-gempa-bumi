@@ -119,3 +119,5 @@
 23 Jul 202607:07:21 WIB3.7Pusat gempa berada di laut 26 km utara Kota Sorong
 22 Jul 202603:20:09 WIB3.9Pusat gempa berada di darat 20 km timur laut Kab. Jayapura
 24 Jul 202605:58:34 WIB5.8Pusat gempa berada di laut 117 km baratdaya Ternate
+24 Jul 202606:53:11 WIB3.9Pusat gempa berada di darat 57 km timurlaut Sumbawa
+24 Jul 202608:03:07 WIB4.4Pusat gempa berada di darat 30 km timurlaut Toli-Toli

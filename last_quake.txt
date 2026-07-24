@@ -62,3 +62,4 @@
 24 Jul 202603:15:15 WIB5.165 km Tenggara SARMI-PAPUA
 24 Jul 202605:58:34 WIB5.8117 km BaratDaya TERNATE-MALUT
 24 Jul 202605:58:34 WIB5.8Pusat gempa berada di laut 117 km baratdaya Ternate
+24 Jul 202608:03:07 WIB4.4Pusat gempa berada di darat 30 km timurlaut Toli-Toli
