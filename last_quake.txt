@@ -61,3 +61,4 @@
 23 Jul 202607:07:21 WIB3.7Pusat gempa berada di laut 26 km utara Kota Sorong
 24 Jul 202603:15:15 WIB5.165 km Tenggara SARMI-PAPUA
 24 Jul 202605:58:34 WIB5.8117 km BaratDaya TERNATE-MALUT
+24 Jul 202605:58:34 WIB5.8Pusat gempa berada di laut 117 km baratdaya Ternate
