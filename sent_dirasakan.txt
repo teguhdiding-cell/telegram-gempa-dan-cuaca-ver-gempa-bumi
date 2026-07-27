@@ -127,3 +127,4 @@
 25 Jul 202617:53:06 WIB4.3Pusat gempa berada di laut 187 km timur Berau
 26 Jul 202617:57:43 WIB5.5Pusat gempa berada di darat 19 km BaratDaya Kab. Kupang
 27 Jul 202607:50:52 WIB4.2Pusat gempa berada di darat 28 km Tenggara Tapanuli Utara
+27 Jul 202620:21:01 WIB3.4Pusat gempa berada di darat 45 km tenggara Kendari
