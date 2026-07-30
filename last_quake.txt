@@ -75,3 +75,4 @@
 28 Jul 202605:57:12 WIB4.0Pusat gempa berada di laut 44 km timur Sarmi
 28 Jul 202620:29:46 WIB4.4Pusat gempa berada di laut 115 km selatan Malang
 29 Jul 202620:23:52 WIB5.3189 km BaratLaut TAHUNA-KEP.SANGIHE-SULUT
+30 Jul 202618:17:13 WIB4.1Pusat gempa berada di laut 86 km baratdaya Kab. Sukabumi
