@@ -77,3 +77,4 @@
 29 Jul 202620:23:52 WIB5.3189 km BaratLaut TAHUNA-KEP.SANGIHE-SULUT
 30 Jul 202618:17:13 WIB4.1Pusat gempa berada di laut 86 km baratdaya Kab. Sukabumi
 31 Jul 202603:06:25 WIB1.9Pusat gempa berada di darat 6 km baratdaya Kab. Cianjur
+31 Jul 202619:12:41 WIB2.8Pusat gempa berada di darat 4 km utara Tanggamus
