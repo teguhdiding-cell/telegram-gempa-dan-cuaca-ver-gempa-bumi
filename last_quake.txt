@@ -79,3 +79,4 @@
 31 Jul 202603:06:25 WIB1.9Pusat gempa berada di darat 6 km baratdaya Kab. Cianjur
 31 Jul 202619:12:41 WIB2.8Pusat gempa berada di darat 4 km utara Tanggamus
 01 Agu 202603:18:54 WIB5.544 km BaratLaut SERAMBAGIANTIMUR-MALUKU
+01 Agu 202606:15:51 WIB5.142 km BaratLaut SERAMBAGIANTIMUR-MALUKU
