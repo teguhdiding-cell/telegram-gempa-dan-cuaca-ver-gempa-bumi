@@ -136,3 +136,4 @@
 01 Agu 202605:47:22 WIB3.9Pusat gempa berada di laut 123 km Barat JAILOLO
 01 Agu 202609:11:12 WIB3.7Pusat gempa berada di laut 13 km baratlaut Ondong-Kep. Sitaro
 01 Agu 202614:29:22 WIB4.0Pusat gempa berada di darat 37 km Timur Laut Sigi
+02 Agu 202621:17:38 WIB4.6Pusat gempa berada di laut 35 km utara Mbay Nagekeo
