@@ -83,3 +83,4 @@
 01 Agu 202609:11:12 WIB3.7Pusat gempa berada di laut 13 km baratlaut Ondong-Kep. Sitaro
 01 Agu 202614:29:22 WIB4.0Pusat gempa berada di darat 37 km Timur Laut Sigi
 02 Agu 202621:17:38 WIB4.6Pusat gempa berada di laut 35 km utara Mbay Nagekeo
+03 Agu 202620:13:31 WIB3.2Pusat gempa berada di darat 3 km Timur Waikabubak
