@@ -140,3 +140,4 @@
 03 Agu 202620:13:31 WIB3.2Pusat gempa berada di darat 3 km Timur Waikabubak
 04 Agu 202613:11:10 WIB3.5Pusat gempa berada di darat 43 km timur Buol
 04 Agu 202615:55:24 WIB4.1Pusat gempa berada di laut 90 km Barat Daya Kabupaten Bandung
+05 Agu 202603:16:38 WIB5.6Pusat gempa berada di laut 114 km BaratLaut HALMAHERABARAT-MALUT
