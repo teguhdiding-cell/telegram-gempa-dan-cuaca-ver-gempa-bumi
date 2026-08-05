@@ -141,3 +141,4 @@
 04 Agu 202613:11:10 WIB3.5Pusat gempa berada di darat 43 km timur Buol
 04 Agu 202615:55:24 WIB4.1Pusat gempa berada di laut 90 km Barat Daya Kabupaten Bandung
 05 Agu 202603:16:38 WIB5.6Pusat gempa berada di laut 114 km BaratLaut HALMAHERABARAT-MALUT
+05 Agu 202611:14:04 WIB6.4Pusat gempa berada di laut 221 km barat laut Pulau Karatung
