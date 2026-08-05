@@ -89,3 +89,4 @@
 05 Agu 202611:14:04 WIB6.4221 km BaratLaut PULAUKARATUNG-SULUT
 05 Agu 202611:14:04 WIB6.4Pusat gempa berada di laut 221 km barat laut Pulau Karatung
 05 Agu 202621:55:41 WIB5.3Pusat gempa berada di laut 79 km barat daya Kab. Pangandaran
+05 Agu 202623:50:18 WIB5.9Pusat gempa berada di laut 62 km barat daya Pulau Doi
