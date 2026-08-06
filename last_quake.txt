@@ -92,3 +92,4 @@
 05 Agu 202623:50:18 WIB5.9Pusat gempa berada di laut 62 km barat daya Pulau Doi
 06 Agu 202604:41:30 WIB5.8169 km BaratLaut TAHUNA-KEP.SANGIHE-SULUT
 06 Agu 202605:42:56 WIB3.9Pusat gempa berada di laut 41 km timur Morowali
+06 Agu 202609:59:47 WIB4.1Pusat gempa berada di darat 32 km Timur Laut Sigi
