@@ -96,3 +96,4 @@
 07 Agu 202603:42:56 WIB3.5Pusat gempa berada di darat 17 km barat daya Kota Bogor
 07 Agu 202621:07:39 WIB5.0102 km BaratLaut JEPARA-JATENG
 08 Agu 202606:45:53 WIB3.2Pusat gempa berada di darat 25 km baratdaya Kota Bogor
+08 Agu 202616:59:27 WIB4.1Pusat gempa berada di laut 88 km Barat Daya KAB-PANGANDARAN
