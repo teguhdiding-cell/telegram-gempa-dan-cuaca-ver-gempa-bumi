@@ -153,3 +153,4 @@
 08 Agu 202620:59:14 WIB3.4Pusat gempa berada di laut 42 km selatan Polewali Mandar
 09 Agu 202622:15:04 WIB5.5Pusat gempa berada di laut 84 km tenggara Enggano
 09 Agu 202622:35:20 WIB4.0Pusat gempa berada di laut 79 km tenggara Enggano
+10 Sep 202603:36:43 WIB4.3Pusat gempa berada di laut 117 km barat Kota Sorong
