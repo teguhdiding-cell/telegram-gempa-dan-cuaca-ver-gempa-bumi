@@ -98,3 +98,4 @@
 08 Agu 202606:45:53 WIB3.2Pusat gempa berada di darat 25 km baratdaya Kota Bogor
 08 Agu 202616:59:27 WIB4.1Pusat gempa berada di laut 88 km Barat Daya KAB-PANGANDARAN
 08 Agu 202620:59:14 WIB3.4Pusat gempa berada di laut 42 km selatan Polewali Mandar
+09 Agu 202610:02:05 WIB5.7205 km BaratLaut KOTA-SABANG-ACEH
