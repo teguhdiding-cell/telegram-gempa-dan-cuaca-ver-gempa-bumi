@@ -112,3 +112,4 @@
 14 Agu 202608:14:48 WIB5.3195 km BaratLaut TAHUNA-KEP.SANGIHE-SULUT
 14 Agu 202610:38:31 WIB3.3Pusat gempa berada di darat 22 km barat Konawe Utara
 15 Agu 202604:58:24 WIB7.730 km TimurLaut MBAY-NAGEKEO-NTT
+15 Agu 202605:13:53 WIB6.2Pusat gempa berada di laut 46 km timurlaut Labuanbajo
