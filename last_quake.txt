@@ -109,3 +109,4 @@
 12 Agu 202615:01:36 WIB2.8Pusat gempa berada di darat 27 km selatan Bandung
 12 Agu 202616:10:32 WIB2.2Pusat gempa berada di darat 25 km selatan Bandung
 14 Agu 202601:39:29 WIB5.7175 km TimurLaut TAHUNA-KEP.SANGIHE-SULUT
+14 Agu 202608:14:48 WIB5.3195 km BaratLaut TAHUNA-KEP.SANGIHE-SULUT
