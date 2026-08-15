@@ -167,3 +167,4 @@
 15 Agu 202608:47:12 WIB2.5Pusat gempa berada di darat 18 km Barat Laut Banjarnegara
 15 Agu 202612:33:31 WIB3.0Pusat gempa berada di darat 30 km Muna
 15 Agu 202613:28:05 WIB2.1Pusat gempa berada di darat 19 km baratlaut Banjarnegara
+15 Agu 202617:54:52 WIB6.4Pusat gempa berada di darat 20 km Tenggara SIMALUNGUN
