@@ -116,3 +116,4 @@
 15 Agu 202608:47:12 WIB2.5Pusat gempa berada di darat 18 km Barat Laut Banjarnegara
 15 Agu 202610:54:14 WIB5.042 km TimurLaut MBAY-NAGEKEO-NTT
 15 Agu 202612:45:09 WIB5.033 km TimurLaut MBAY-NAGEKEO-NTT
+15 Agu 202612:33:31 WIB3.0Pusat gempa berada di darat 30 km Muna
