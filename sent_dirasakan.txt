@@ -173,3 +173,4 @@
 16 Agu 202611:30:52 WIB3.3Pusat gempa berada di darat 3 km tenggara Ruteng-Manggarai
 16 Agu 202613:25:12 WIB4.6Pusat gempa berada di laut 85 km utara Mbay-Nagekeo
 16 Agu 202613:51:48 WIB5.5Pusat gempa berada di laut 81 km utara Ruteng-Manggarai
+16 Agu 202613:59:55 WIB4.1Pusat gempa berada di laut 69 km timur laut Ruteng-Manggarai
