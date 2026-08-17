@@ -192,3 +192,5 @@
 17 Agu 202614:20:20 WIB5.0Pusat gempa berada di laut 86 km timur laut Ruteng-Manggarai
 17 Agu 202616:22:12 WIB4.1Pusat gempa berada di darat 42 km tenggara Wamena
 17 Agu 202617:06:06 WIB2.5Pusat gempa berada di darat 22 km tenggara Bandung
+17 Agu 202616:16:08 WIB4.8Pusat gempa berada di laut 29 km timur laut Mbay-Nagekeo
+17 Agu 202617:42:42 WIB5.0Pusat gempa berada di laut 84 km timur laut Ruteng-Manggarai
