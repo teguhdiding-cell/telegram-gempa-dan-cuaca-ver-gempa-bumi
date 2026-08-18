@@ -210,3 +210,5 @@
 19 Agu 202603:15:42 WIB4.7Pusat gempa berada di laut 42 km utara Mbay, Nagekeo
 19 Agu 202603:28:56 WIB4.7Pusat gempa berada di laut 46 km utara Mbay, Nagekeo
 19 Agu 202603:31:42 WIB4.1Pusat gempa berada di laut 40 km utara Mbay, Nagekeo
+19 Agu 202603:50:15 WIB4.7Pusat gempa berada di laut 57 km timur laut Mbay- Nagekeo
+19 Agu 202604:11:38 WIB4.5Pusat gempa berada di laut 36 km Utara Mbay - Nagekeo
