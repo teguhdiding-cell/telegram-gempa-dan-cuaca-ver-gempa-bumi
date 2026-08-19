@@ -165,3 +165,4 @@
 19 Agu 202614:14:57 WIB4.2Pusat gempa berada di laut 19 km utara Ondong, Kep. Sitaro
 19 Agu 202618:01:30 WIB5.2225 km BaratLaut PULAUKARATUNG-SULUT
 19 Agu 202621:30:59 WIB4.1Pusat gempa berada di laut 60 km utara Ruteng-Manggarai
+19 Agu 202621:40:43 WIB3.5Pusat gempa berada di darat 18 km timur laut Ruteng-Manggarai
