@@ -173,3 +173,4 @@
 20 Agu 202604:35:34 WIB4.4Pusat gempa berada di laut 47 km utara Ruteng-Manggarai
 20 Agu 202604:43:38 WIB4.4Pusat gempa berada di laut 50 km utara Ruteng-Manggarai
 20 Agu 202605:45:19 WIB5.637 km TimurLaut RUTENG-MANGGARAI-NTT
+20 Agu 202605:55:49 WIB4.2Pusat gempa berada di darat 32 km timur laut Ruteng - Manggarai
