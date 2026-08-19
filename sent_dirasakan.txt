@@ -220,3 +220,6 @@
 19 Agu 202609:00:34 WIB3.7Pusat gempa berada di laut 104 km timur laut Ruteng-Manggarai
 19 Agu 202610:13:28 WIB5.2Pusat gempa berada di laut 54 km timur laut Mbay, Nagekeo
 19 Agu 202611:57:06 WIB4.3Pusat gempa berada di laut 33 km Timur Laut RUTENG-MANGGARAI
+19 Agu 202613:57:39 WIB4.4Pusat gempa berada di laut 50 km utara Ruteng, Manggarai
+19 Agu 202614:13:25 WIB3.8Pusat gempa berada di darat 8 km barat daya Deiyai
+19 Agu 202614:14:57 WIB4.2Pusat gempa berada di laut 19 km utara Ondong, Kep. Sitaro
