@@ -256,3 +256,4 @@
 20 Agu 202617:31:51 WIB4.0Pusat gempa berada di laut 39 km utara Ruteng-Manggarai
 20 Agu 202621:31:33 WIB4.2Pusat gempa berada di laut 80 km Barat Daya Kab. Pangandaran
 21 Agu 202601:18:35 WIB3.3Pusat gempa berada di darat 27 km tenggara Kab. Bandung
+21 Agu 202600:49:12 WIB2.7Pusat gempa berada di laut 33 km Barat Buton Tengah
