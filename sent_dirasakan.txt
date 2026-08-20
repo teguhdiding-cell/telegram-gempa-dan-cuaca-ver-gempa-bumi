@@ -242,3 +242,4 @@
 20 Agu 202609:47:00 WIB5.7Pusat gempa berada di darat 39 km TimurLaut Ruteng Manggarai
 20 Agu 202609:51:38 WIB4.1Pusat gempa berada di darat 46 km Utara Ruteng Manggarai
 20 Agu 202610:36:45 WIB4.5Pusat gempa berada di darat 44 km timur laut Ruteng-Manggarai
+20 Agu 202611:23:56 WIB4.5Pusat gempa berada di laut 50 km Utara Ruteng Manggarai
