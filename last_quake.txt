@@ -183,3 +183,4 @@
 20 Agu 202615:01:32 WIB5.2Pusat gempa berada di laut 44 km TimurLaut Ruteng Manggarai
 20 Agu 202615:53:55 WIB4.8Pusat gempa berada di laut 52 km utara Ruteng, Manggarai
 20 Agu 202616:30:54 WIB5.4Pusat gempa berada di darat 29 km TimurLaut Ruteng Manggarai
+20 Agu 202617:20:57 WIB3.5Pusat gempa berada di darat 11 km timur laut Bantul
