@@ -190,3 +190,4 @@
 21 Agu 202601:18:35 WIB3.3Pusat gempa berada di darat 27 km tenggara Kab. Bandung
 21 Agu 202608:18:05 WIB4.6Pusat gempa berada di laut 45 km Utara Ruteng-Manggarai
 21 Agu 202616:43:19 WIB2.8Pusat gempa berada di darat 11 km Tenggara Kota Sukabumi
+21 Agu 202619:39:10 WIB3.9Pusat gempa berada di darat 40 km Timur Laut Ruteng, Manggarai
