@@ -194,3 +194,4 @@
 21 Agu 202623:05:29 WIB4.3Pusat gempa berada di laut 47 km utara Ruteng, Manggarai
 22 Agu 202600:06:39 WIB4.5Pusat gempa berada di laut 93 km utara Ruteng, Manggarai
 22 Agu 202600:41:43 WIB5.8170 km BaratDaya SUMUR-BANTEN
+22 Agu 202600:45:11 WIB4.0Pusat gempa berada di laut 37 km utara Mbay, Nagekeo
