@@ -271,3 +271,4 @@
 22 Agu 202616:02:16 WIB2.7Pusat gempa berada di darat 13 km utara Ruteng, Manggarai
 22 Agu 202620:52:21 WIB3.0Pusat gempa berada di darat 6 km tenggara Ruteng-Manggarai
 22 Agu 202620:56:12 WIB2.8Pusat gempa berada di darat 6 km Tenggara Ruteng-Manggarai
+23 Agu 202602:54:08 WIB5.4Pusat gempa berada di laut 57 km timur laut PULAUPUAH
