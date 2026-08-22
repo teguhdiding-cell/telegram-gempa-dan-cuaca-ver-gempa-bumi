@@ -265,3 +265,5 @@
 22 Agu 202600:45:11 WIB4.0Pusat gempa berada di laut 37 km utara Mbay, Nagekeo
 22 Agu 202603:04:04 WIB3.7Pusat gempa berada di laut 46 km timur laut Mbay, Nagakeo
 22 Agu 202608:31:00 WIB5.2Pusat gempa berada di laut 68 km timur laut Ruteng-Manggarai
+22 Agu 202612:55:00 WIB2.9Pusat gempa berada di laut 34 km selatan Tidore
+22 Agu 202613:21:57 WIB3.6Pusat gempa berada di darat 35 km utara Ruteng, Manggarai
