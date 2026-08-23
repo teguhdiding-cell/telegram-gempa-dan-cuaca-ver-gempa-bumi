@@ -209,3 +209,4 @@
 23 Agu 202620:16:08 WIB1.9Pusat gempa berada di darat, 17 km Tenggara Larantuka
 24 Agu 202603:35:11 WIB3.4Pusat gempa berada di darat 10 km Barat Borong
 24 Agu 202604:20:18 WIB5.238 km TimurLaut RUTENG-MANGGARAI-NTT
+24 Agu 202604:27:02 WIB4.0Pusat gempa berada di darat 42 km Timur Laut Ruteng, Manggarai
