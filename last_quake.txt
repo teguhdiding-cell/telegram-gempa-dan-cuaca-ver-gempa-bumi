@@ -218,3 +218,4 @@
 24 Agu 202613:22:02 WIB4.0Pusat gempa berada di darat 36 km Timur Laut Ruteng - Manggarai
 24 Agu 202617:03:00 WIB5.6206 km Tenggara MALUKUTENGAH
 24 Agu 202617:03:00 WIB5.6Pusat gempa berada di laut 206 km tenggara Maluku Tengah
+24 Agu 202621:10:18 WIB6.2168 km BaratLaut MALUKUBRTDAYA
