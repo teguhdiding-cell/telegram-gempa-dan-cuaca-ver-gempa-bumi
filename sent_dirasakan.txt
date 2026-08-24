@@ -288,3 +288,4 @@
 24 Agu 202612:34:50 WIB4.3Pusat gempa berada di darat 26 km Barat Laut Luwu Timur
 24 Agu 202613:22:02 WIB4.0Pusat gempa berada di darat 36 km Timur Laut Ruteng - Manggarai
 24 Agu 202617:03:00 WIB5.6Pusat gempa berada di laut 206 km tenggara Maluku Tengah
+24 Agu 202621:10:18 WIB6.2Pusat gempa berada di laut 168 km barat laut Maluku Barat Daya
