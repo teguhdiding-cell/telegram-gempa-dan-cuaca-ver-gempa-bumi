@@ -212,3 +212,4 @@
 24 Agu 202604:27:02 WIB4.0Pusat gempa berada di darat 42 km Timur Laut Ruteng, Manggarai
 24 Agu 202605:17:08 WIB3.4Pusat gempa berada di darat 32 km Timur Laut Ruteng, Manggarai
 24 Agu 202605:57:30 WIB4.6Pusat gempa berada di laut 50 km Utara Ruteng, Manggarai
+24 Agu 202606:29:39 WIB4.1Pusat gempa berada di laut 96 km Barat Daya Kab. Pangandaran
