@@ -220,3 +220,4 @@
 24 Agu 202617:03:00 WIB5.6Pusat gempa berada di laut 206 km tenggara Maluku Tengah
 24 Agu 202621:10:18 WIB6.2168 km BaratLaut MALUKUBRTDAYA
 24 Agu 202621:10:18 WIB6.2Pusat gempa berada di laut 168 km barat laut Maluku Barat Daya
+25 Agu 202606:27:15 WIB4.1Pusat gempa berada di laut 42 km utara Ruteng, Manggarai
