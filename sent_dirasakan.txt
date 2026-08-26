@@ -294,3 +294,5 @@
 26 Agu 202600:59:13 WIB3.5Pusat gempa berada di darat 34 km timur laut Sigi
 25 Agu 202618:29:46 WIB4.7Pusat gempa berada di laut 46 km Barat Buru Selatan
 26 Agu 202619:30:34 WIB3.4Pusat gempa berada di laut 10 km utara Nabire
+26 Agu 202620:43:43 WIB4.2Pusat gempa berada di laut 75 km barat daya Kab.Pangandaran
+26 Agu 202621:15:33 WIB5.0Pusat gempa berada di laut 42 km timur laut Mbay, Nagekeo
