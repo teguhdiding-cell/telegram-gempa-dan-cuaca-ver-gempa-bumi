@@ -296,3 +296,5 @@
 26 Agu 202619:30:34 WIB3.4Pusat gempa berada di laut 10 km utara Nabire
 26 Agu 202620:43:43 WIB4.2Pusat gempa berada di laut 75 km barat daya Kab.Pangandaran
 26 Agu 202621:15:33 WIB5.0Pusat gempa berada di laut 42 km timur laut Mbay, Nagekeo
+27 Agu 202601:23:14 WIB4.9Pusat gempa berada di laut 43 km timur laut Ruteng
+27 Agu 202601:34:58 WIB4.6Pusat gempa berada di laut 51 km timur laut Ruteng-Manggarai
