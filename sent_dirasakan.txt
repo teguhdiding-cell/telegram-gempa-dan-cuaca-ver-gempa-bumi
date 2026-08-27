@@ -298,3 +298,9 @@
 26 Agu 202621:15:33 WIB5.0Pusat gempa berada di laut 42 km timur laut Mbay, Nagekeo
 27 Agu 202601:23:14 WIB4.9Pusat gempa berada di laut 43 km timur laut Ruteng
 27 Agu 202601:34:58 WIB4.6Pusat gempa berada di laut 51 km timur laut Ruteng-Manggarai
+27 Agu 202612:16:51 WIB3.6Pusat gempa berada di laut 57 km utara Ruteng, Manggarai
+27 Agu 202617:33:25 WIB5.2Pusat gempa berada di laut 52 km timur laut Labuan Bajo
+27 Agu 202618:33:48 WIB4.1Pusat gempa berada di laut 52 km barat daya Pesisir Barat
+27 Agu 202621:46:32 WIB4.2Pusat gempa berada di laut 45 km Utara Ruteng, Manggarai
+27 Agu 202621:48:02 WIB4.2Pusat gempa berada di laut 47 km Utara Ruteng, Manggarai
+27 Agu 202622:04:56 WIB3.7Pusat gempa berada di laut 37 km Utara Ruteng, Manggarai
