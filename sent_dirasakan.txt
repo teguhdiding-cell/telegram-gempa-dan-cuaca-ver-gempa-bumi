@@ -308,3 +308,5 @@
 28 Agu 202618:38:56 WIB2.8Pusat gempa berada di darat 6 km Utara Malinau
 28 Agu 202623:50:43 WIB4.0Pusat gempa berada di darat 59 km Utara Yahukimo
 29 Agu 202604:45:45 WIB4.2Pusat gempa berada di laut 66 km Timur Laut RUTENG-MANGGARAI
+29 Agu 202607:50:06 WIB2.5Pusat gempa berada di darat 17 km barat laut Banjarnegara
+29 Agu 202610:09:01 WIB4.2Pusat gempa berada di laut 50 km utara Ruteng, Manggarai
