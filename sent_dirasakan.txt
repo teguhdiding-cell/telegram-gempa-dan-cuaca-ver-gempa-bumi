@@ -310,3 +310,4 @@
 29 Agu 202604:45:45 WIB4.2Pusat gempa berada di laut 66 km Timur Laut RUTENG-MANGGARAI
 29 Agu 202607:50:06 WIB2.5Pusat gempa berada di darat 17 km barat laut Banjarnegara
 29 Agu 202610:09:01 WIB4.2Pusat gempa berada di laut 50 km utara Ruteng, Manggarai
+29 Agu 202610:28:54 WIB1.8Pusat gempa berada di darat 16 km Timur Laut Banjarnegara
