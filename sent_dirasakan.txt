@@ -322,3 +322,6 @@
 31 Agu 202613:53:46 WIB4.0Pusat gempa berada di laut 59 km utara Ruteng, Manggarai
 31 Agu 202615:03:29 WIB5.5Pusat gempa berada di laut 50 km timur laut Ruteng, Manggarai
 31 Agu 202618:47:08 WIB3.7Pusat gempa berada di darat 35 km Timur Laut Luwu Utara
+01 Sep 202611:50:09 WIB3.8Pusat gempa berada di laut 45 km utara Ruteng, Manggarai
+01 Sep 202612:15:20 WIB2.5Pusat gempa berada di darat 22 km Timur Alor
+01 Sep 202613:20:32 WIB4.1Pusat gempa berada di darat 33 km Timur Laut Ruteng, Manggarai
