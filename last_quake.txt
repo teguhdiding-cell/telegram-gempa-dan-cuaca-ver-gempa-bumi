@@ -240,3 +240,4 @@
 31 Agu 202618:47:08 WIB3.7Pusat gempa berada di darat 35 km Timur Laut Luwu Utara
 01 Sep 202613:20:32 WIB4.1Pusat gempa berada di darat 33 km Timur Laut Ruteng, Manggarai
 01 Sep 202617:53:10 WIB4.3Pusat gempa berada di darat 13 km Selatan Kabupaten Cianjur
+01 Sep 202622:22:59 WIB2.8Pusat gempa berada di darat 22 km selatan Kolaka Timur

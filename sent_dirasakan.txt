@@ -328,3 +328,4 @@
 01 Sep 202615:22:21 WIB5.5Pusat gempa berada di laut 65 km Tenggara Halmahera Tengah
 01 Sep 202615:24:18 WIB2.6Pusat gempa berada di laut, 22 km Barat Daya Borong
 01 Sep 202617:53:10 WIB4.3Pusat gempa berada di darat 13 km Selatan Kabupaten Cianjur
+01 Sep 202622:22:59 WIB2.8Pusat gempa berada di darat 22 km selatan Kolaka Timur
