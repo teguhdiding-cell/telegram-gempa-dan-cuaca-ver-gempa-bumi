@@ -325,3 +325,6 @@
 01 Sep 202611:50:09 WIB3.8Pusat gempa berada di laut 45 km utara Ruteng, Manggarai
 01 Sep 202612:15:20 WIB2.5Pusat gempa berada di darat 22 km Timur Alor
 01 Sep 202613:20:32 WIB4.1Pusat gempa berada di darat 33 km Timur Laut Ruteng, Manggarai
+01 Sep 202615:22:21 WIB5.5Pusat gempa berada di laut 65 km Tenggara Halmahera Tengah
+01 Sep 202615:24:18 WIB2.6Pusat gempa berada di laut, 22 km Barat Daya Borong
+01 Sep 202617:53:10 WIB4.3Pusat gempa berada di darat 13 km Selatan Kabupaten Cianjur
