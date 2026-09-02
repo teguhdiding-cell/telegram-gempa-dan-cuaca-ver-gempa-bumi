@@ -331,3 +331,4 @@
 01 Sep 202622:22:59 WIB2.8Pusat gempa berada di darat 22 km selatan Kolaka Timur
 02 Sep 202601:11:46 WIB4.6Pusat gempa berada di laut 53 km utara Ruteng-Manggarai
 02 Sep 202607:04:55 WIB5.5Pusat gempa berada di darat 69 km Timur Laut Kobagma
+02 Sep 202613:06:41 WIB4.3Pusat gempa berada di darat 41 km timur laut Ruteng
