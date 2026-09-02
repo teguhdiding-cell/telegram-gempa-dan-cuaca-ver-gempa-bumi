@@ -245,3 +245,4 @@
 02 Sep 202607:04:55 WIB5.569 km TimurLaut KOBAGMA-PAPUAPGNGN
 02 Sep 202607:04:55 WIB5.5Pusat gempa berada di darat 69 km Timur Laut Kobagma
 02 Sep 202613:06:41 WIB4.3Pusat gempa berada di darat 41 km timur laut Ruteng
+02 Sep 202618:56:56 WIB3.8Pusat gempa berada di darat 29 km utara Ruteng
