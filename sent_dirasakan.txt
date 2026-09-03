@@ -335,3 +335,6 @@
 02 Sep 202618:56:56 WIB3.8Pusat gempa berada di darat 29 km utara Ruteng
 02 Sep 202622:01:01 WIB4.1Pusat gempa berada di laut 51 Km Utara Ruteng
 03 Sep 202603:52:36 WIB4.4Pusat gempa berada di laut 94 km selatan Pacitan
+03 Sep 202609:24:55 WIB4.2Pusat gempa berada di laut 56 km utara Ruteng, Manggarai
+03 Sep 202609:45:22 WIB4.5Pusat gempa berada di laut 39 km Timur Laut Mbay, Nagekeo
+03 Sep 202611:24:22 WIB2.3Pusat gempa berada di darat 26 km barat daya Kota Bogor
