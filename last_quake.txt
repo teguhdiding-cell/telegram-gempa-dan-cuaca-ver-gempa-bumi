@@ -255,3 +255,4 @@
 04 Sep 202612:04:59 WIB5.4Pusat gempa berada di laut 77 km tenggara Cilacap
 04 Sep 202620:13:46 WIB4.1Pusat gempa berada di laut 40 km Timur Laut Mbay, Nagekeo
 04 Sep 202623:24:40 WIB4.9Pusat gempa berada di darat 43 km barat daya Padang Sidempuan
+05 Sep 202606:17:46 WIB4.6Pusat gempa berada di laut 46 km Utara Ruteng
