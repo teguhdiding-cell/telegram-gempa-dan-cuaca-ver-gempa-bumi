@@ -257,3 +257,4 @@
 04 Sep 202623:24:40 WIB4.9Pusat gempa berada di darat 43 km barat daya Padang Sidempuan
 05 Sep 202606:17:46 WIB4.6Pusat gempa berada di laut 46 km Utara Ruteng
 05 Sep 202616:09:28 WIB4.2Pusat gempa berada di laut 49 km utara Ruteng, Manggarai
+05 Sep 202617:59:15 WIB4.9Pusat gempa berada di laut 40 km Barat Bengkulu Selatan
