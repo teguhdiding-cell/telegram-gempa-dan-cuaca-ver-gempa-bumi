@@ -350,3 +350,5 @@
 05 Sep 202613:34:49 WIB4.3Pusat gempa berada di laut 92 km Selatan Bone Bolango
 05 Sep 202616:09:28 WIB4.2Pusat gempa berada di laut 49 km utara Ruteng, Manggarai
 05 Sep 202617:59:15 WIB4.9Pusat gempa berada di laut 40 km Barat Bengkulu Selatan
+05 Sep 202619:35:02 WIB4.4Pusat gempa berada di laut 65 km timur laut Ruteng-Manggarai
+05 Sep 202621:06:05 WIB4.7Pusat gempa berada di laut 80 km timur Nias
