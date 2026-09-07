@@ -356,3 +356,4 @@
 06 Sep 202613:41:25 WIB4.9Pusat gempa berada di laut 74 km timur laut Banggai
 07 Sep 202614:22:23 WIB3.0Pusat gempa berada di darat 11 km barat laut Tanggamus
 07 Sep 202617:40:05 WIB4.4Pusat gempa berada di laut 47 km utara Ruteng, Manggarai
+07 Sep 202619:50:39 WIB4.0Pusat gempa berada di laut 37 km Utara Mbay Nagekeo
