@@ -361,3 +361,4 @@
 08 Sep 202611:40:29 WIB5.2Pusat gempa berada di laut 60 km timur laut Ruteng, Manggarai
 08 Sep 202613:37:52 WIB2.6Pusat gempa berada di darat 22 km Barat Laut Tanggamus
 08 Sep 202620:00:51 WIB4.3Pusat gempa berada di laut 79 km Utara Ruteng, Manggarai
+09 Sep 202604:42:23 WIB4.8Pusat gempa berada di laut 45 km Utara Ruteng, Manggarai
