@@ -271,3 +271,4 @@
 09 Sep 202607:23:23 WIB4.4Pusat gempa berada di laut 37 km barat daya Kaur
 09 Sep 202612:09:55 WIB3.8Pusat gempa berada di laut 27 km selatan Banten
 09 Sep 202617:21:38 WIB4.2Pusat gempa berada di laut 52 km utara Ruteng-Manggarai
+09 Sep 202622:24:41 WIB3.5Pusat gempa berada di darat 21 km utara Donggala
