@@ -274,3 +274,4 @@
 09 Sep 202622:24:41 WIB3.5Pusat gempa berada di darat 21 km utara Donggala
 10 Sep 202616:03:32 WIB2.9Pusat gempa berada di darat 15 km barat laut Banjarnegara
 10 Sep 202620:54:13 WIB3.7Pusat gempa berada di darat 4 km Barat Daya Sentani
+11 Sep 202601:44:43 WIB5.2Pusat gempa berada di laut 46 km selatan Maluku Barat Daya
