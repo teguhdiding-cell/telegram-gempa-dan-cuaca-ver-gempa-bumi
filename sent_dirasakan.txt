@@ -369,3 +369,5 @@
 09 Sep 202617:21:38 WIB4.2Pusat gempa berada di laut 52 km utara Ruteng-Manggarai
 09 Sep 202622:24:41 WIB3.5Pusat gempa berada di darat 21 km utara Donggala
 10 Sep 202616:03:32 WIB2.9Pusat gempa berada di darat 15 km barat laut Banjarnegara
+10 Sep 202620:41:37 WIB2.7Pusat gempa berada di darat 14 km Utara Ruteng, Manggarai
+10 Sep 202620:54:13 WIB3.7Pusat gempa berada di darat 4 km Barat Daya Sentani
