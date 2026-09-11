@@ -376,3 +376,4 @@
 11 Sep 202613:00:53 WIB2.7Pusat gempa berada di darat 6 km barat laut Kabupaten Bener Meriah
 11 Sep 202618:56:24 WIB6.2Pusat gempa berada di laut 166 km timur laut Maluku Barat Daya
 11 Sep 202620:08:11 WIB3.8Pusat gempa berada di laut, 34 km barat Pariaman
+12 Sep 202602:43:01 WIB3.8Pusat gempa berada di darat 12 Km utara Wonosobo
