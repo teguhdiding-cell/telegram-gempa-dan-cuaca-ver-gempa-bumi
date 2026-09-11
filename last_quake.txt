@@ -279,3 +279,4 @@
 11 Sep 202613:00:53 WIB2.7Pusat gempa berada di darat 6 km barat laut Kabupaten Bener Meriah
 11 Sep 202620:08:11 WIB3.8Pusat gempa berada di laut, 34 km barat Pariaman
 12 Sep 202602:43:01 WIB3.8Pusat gempa berada di darat 12 Km utara Wonosobo
+12 Sep 202604:23:56 WIB5.9Pusat gempa berada di laut 49 km barat laut Jakarta
