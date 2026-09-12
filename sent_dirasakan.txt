@@ -380,3 +380,5 @@
 12 Sep 202604:23:56 WIB5.9Pusat gempa berada di laut 49 km barat laut Jakarta
 12 Sep 202610:34:56 WIB4.5Pusat gempa berada di laut 46 km Utara Ruteng, Manggarai
 12 Sep 202613:34:42 WIB4.0Pusat gempa berada di darat 35 km utara RUTENG - MANGGARAI
+12 Sep 202620:05:59 WIB2.7Pusat gempa berada di darat 23 km Selatan Sumbawa Barat
+12 Sep 202620:42:16 WIB3.6Pusat gempa berada di darat 14 km selatan Nabire
