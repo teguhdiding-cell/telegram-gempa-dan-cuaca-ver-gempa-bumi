@@ -382,3 +382,4 @@
 12 Sep 202613:34:42 WIB4.0Pusat gempa berada di darat 35 km utara RUTENG - MANGGARAI
 12 Sep 202620:05:59 WIB2.7Pusat gempa berada di darat 23 km Selatan Sumbawa Barat
 12 Sep 202620:42:16 WIB3.6Pusat gempa berada di darat 14 km selatan Nabire
+13 Sep 202610:14:42 WIB4.7Pusat gempa berada di laut 48 km Timur laut Mbay, Nagekeo
