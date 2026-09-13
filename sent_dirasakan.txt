@@ -385,3 +385,4 @@
 13 Sep 202610:14:42 WIB4.7Pusat gempa berada di laut 48 km Timur laut Mbay, Nagekeo
 13 Sep 202616:02:01 WIB4.0Pusat gempa berada di laut 45 km utara Ruteng-Manggarai
 13 Sep 202617:06:52 WIB4.3Pusat gempa berada di laut 83 km selatan Kab. Sukabumi
+14 Sep 202605:40:05 WIB4.9Pusat gempa berada di laut 56 km baratlaut Ruteng-Manggarai
