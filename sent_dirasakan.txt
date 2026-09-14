@@ -387,3 +387,4 @@
 13 Sep 202617:06:52 WIB4.3Pusat gempa berada di laut 83 km selatan Kab. Sukabumi
 14 Sep 202605:40:05 WIB4.9Pusat gempa berada di laut 56 km baratlaut Ruteng-Manggarai
 14 Sep 202608:42:08 WIB5.2Pusat gempa berada di laut 156 km tenggara Kab. Malang
+14 Sep 202617:58:04 WIB6.2Pusat gempa berada di laut 42 km TimurLaut Pulau Doi
