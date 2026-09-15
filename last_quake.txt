@@ -289,3 +289,4 @@
 14 Sep 202605:40:05 WIB4.9Pusat gempa berada di laut 56 km baratlaut Ruteng-Manggarai
 14 Sep 202608:42:08 WIB5.2Pusat gempa berada di laut 156 km tenggara Kab. Malang
 14 Sep 202617:58:04 WIB6.2Pusat gempa berada di laut 42 km TimurLaut Pulau Doi
+15 Sep 202609:27:41 WIB3.1Pusat gempa berada di laut 41 km utara Ruteng Manggarai
