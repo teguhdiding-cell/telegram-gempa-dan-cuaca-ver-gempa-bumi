@@ -394,3 +394,5 @@
 16 Sep 202606:21:32 WIB2.2Pusat gempa berada di darat 26 km selatan Kab. Bandung
 16 Sep 202608:11:31 WIB2.9Pusat gempa berada di darat 25 km Tenggara Kabupaten Bandung
 16 Sep 202617:14:19 WIB2.6Pusat gempa berada di darat 28 km selatan Kab. Bandung
+17 Sep 202604:59:20 WIB2.6Pusat gempa berada di darat 23 km selatan Kabupaten Bandung
+17 Sep 202606:21:05 WIB2.7Pusat gempa berada di darat 27 km selatan Kab. Bandung
