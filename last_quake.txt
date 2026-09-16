@@ -293,3 +293,4 @@
 16 Sep 202601:26:34 WIB4.7Pusat gempa berada di laut 48 km Utara Ruteng-Manggarai
 16 Sep 202606:21:32 WIB2.2Pusat gempa berada di darat 26 km selatan Kab. Bandung
 16 Sep 202608:11:31 WIB2.9Pusat gempa berada di darat 25 km Tenggara Kabupaten Bandung
+16 Sep 202617:14:19 WIB2.6Pusat gempa berada di darat 28 km selatan Kab. Bandung
