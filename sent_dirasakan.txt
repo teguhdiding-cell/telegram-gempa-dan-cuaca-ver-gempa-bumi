@@ -396,3 +396,4 @@
 16 Sep 202617:14:19 WIB2.6Pusat gempa berada di darat 28 km selatan Kab. Bandung
 17 Sep 202604:59:20 WIB2.6Pusat gempa berada di darat 23 km selatan Kabupaten Bandung
 17 Sep 202606:21:05 WIB2.7Pusat gempa berada di darat 27 km selatan Kab. Bandung
+17 Sep 202613:20:53 WIB5.1Pusat gempa berada di laut 118 km BaratLaut Jailolo
