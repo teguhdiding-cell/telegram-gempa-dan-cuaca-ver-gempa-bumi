@@ -398,3 +398,5 @@
 17 Sep 202606:21:05 WIB2.7Pusat gempa berada di darat 27 km selatan Kab. Bandung
 17 Sep 202613:20:53 WIB5.1Pusat gempa berada di laut 118 km BaratLaut Jailolo
 17 Sep 202615:28:28 WIB4.2Pusat gempa berada di laut 32 km utara Nagekeo
+18 Sep 202614:42:20 WIB2.7Pusat gempa berada di darat 17 km Barat Laut Tanggamus
+18 Sep 202615:22:57 WIB4.1Pusat gempa berada di laut 54 km Utara Ruteng, Manggarai
