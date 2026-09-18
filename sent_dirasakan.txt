@@ -400,3 +400,4 @@
 17 Sep 202615:28:28 WIB4.2Pusat gempa berada di laut 32 km utara Nagekeo
 18 Sep 202614:42:20 WIB2.7Pusat gempa berada di darat 17 km Barat Laut Tanggamus
 18 Sep 202615:22:57 WIB4.1Pusat gempa berada di laut 54 km Utara Ruteng, Manggarai
+18 Sep 202619:20:56 WIB4.7Pusat gempa berada di laut 46 km Utara Ruteng, Manggarai
