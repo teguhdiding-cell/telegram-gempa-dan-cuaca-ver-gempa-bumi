@@ -307,3 +307,4 @@
 20 Sep 202620:35:02 WIB4.0Pusat gempa berada di laut 48 km utara Ruteng-Manggarai
 20 Sep 202623:56:57 WIB3.6Pusat gempa berada di laut 53 km utara Ruteng, Manggarai
 21 Sep 202600:51:33 WIB4.5Pusat gempa berada di laut 91 km Baratdaya Lombok Barat
+21 Sep 202604:33:46 WIB2.7Pusat gempa berada di darat 27 km selatan Kab. Bandung
