@@ -306,3 +306,4 @@
 20 Sep 202617:20:32 WIB3.9Pusat gempa berada di laut 32 km selatan Buton
 20 Sep 202620:35:02 WIB4.0Pusat gempa berada di laut 48 km utara Ruteng-Manggarai
 20 Sep 202623:56:57 WIB3.6Pusat gempa berada di laut 53 km utara Ruteng, Manggarai
+21 Sep 202600:51:33 WIB4.5Pusat gempa berada di laut 91 km Baratdaya Lombok Barat
