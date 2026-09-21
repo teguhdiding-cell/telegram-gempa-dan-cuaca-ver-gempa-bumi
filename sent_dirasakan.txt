@@ -412,3 +412,5 @@
 21 Sep 202600:51:33 WIB4.5Pusat gempa berada di laut 91 km Baratdaya Lombok Barat
 21 Sep 202604:33:46 WIB2.7Pusat gempa berada di darat 27 km selatan Kab. Bandung
 21 Sep 202608:41:37 WIB5.3Pusat gempa berada di darat 34 km Timur Laut Ruteng
+21 Sep 202612:59:25 WIB3.5Pusat gempa berada di laut 38 km utara Ruteng, Manggarai
+21 Sep 202614:31:07 WIB5.3Pusat gempa berada di laut 26 km BaratDaya Pulau Puah
