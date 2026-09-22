@@ -314,3 +314,4 @@
 22 Sep 202606:48:13 WIB5.2127 km BaratLaut TAHUNA-KEP.SANGIHE-SULUT
 22 Sep 202610:36:27 WIB4.8Pusat gempa berada di laut 31 km timur laut Mbay, Nagekeo
 23 Sep 202600:20:14 WIB4.2Pusat gempa berada di laut 49 km Barat Laut Ruteng, Manggarai
+23 Sep 202604:36:35 WIB4.5Pusat gempa berada di laut 51 km Utara RUTENG-MANGGARAI
