@@ -312,3 +312,4 @@
 21 Sep 202614:31:07 WIB5.3Pusat gempa berada di laut 26 km BaratDaya Pulau Puah
 21 Sep 202619:35:22 WIB4.5Pusat gempa berada di laut 76 km Barat Daya Agam
 22 Sep 202606:48:13 WIB5.2127 km BaratLaut TAHUNA-KEP.SANGIHE-SULUT
+22 Sep 202610:36:27 WIB4.8Pusat gempa berada di laut 31 km timur laut Mbay, Nagekeo
