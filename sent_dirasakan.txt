@@ -419,3 +419,4 @@
 23 Sep 202600:20:14 WIB4.2Pusat gempa berada di laut 49 km Barat Laut Ruteng, Manggarai
 23 Sep 202603:25:30 WIB3.5Pusat gempa berada di darat 26 km tenggara Kota Kendari
 23 Sep 202604:36:35 WIB4.5Pusat gempa berada di laut 51 km Utara RUTENG-MANGGARAI
+23 Sep 202605:27:42 WIB4.6Pusat gempa berada di laut 38 Km Selatan Sumur

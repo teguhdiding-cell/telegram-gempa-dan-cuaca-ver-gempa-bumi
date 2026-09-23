@@ -315,3 +315,4 @@
 22 Sep 202610:36:27 WIB4.8Pusat gempa berada di laut 31 km timur laut Mbay, Nagekeo
 23 Sep 202600:20:14 WIB4.2Pusat gempa berada di laut 49 km Barat Laut Ruteng, Manggarai
 23 Sep 202604:36:35 WIB4.5Pusat gempa berada di laut 51 km Utara RUTENG-MANGGARAI
+23 Sep 202605:27:42 WIB4.6Pusat gempa berada di laut 38 Km Selatan Sumur
