@@ -424,3 +424,4 @@
 23 Sep 202619:16:56 WIB1.8Pusat gempa berada di darat 24 km barat daya Lembata
 24 Sep 202607:26:35 WIB4.3Pusat gempa berada di laut 36 km timur laut Sarmi
 24 Sep 202610:30:28 WIB4.6Pusat gempa berada di laut 57 km timur Kota Bima
+25 Sep 202604:01:35 WIB3.7Pusat gempa berada di darat 17 km Timur Jantho Aceh Besar
