@@ -422,3 +422,5 @@
 23 Sep 202605:27:42 WIB4.6Pusat gempa berada di laut 38 Km Selatan Sumur
 23 Sep 202609:02:44 WIB4.7Pusat gempa berada di laut 48 km utara Ruteng-Manggarai
 23 Sep 202619:16:56 WIB1.8Pusat gempa berada di darat 24 km barat daya Lembata
+24 Sep 202607:26:35 WIB4.3Pusat gempa berada di laut 36 km timur laut Sarmi
+24 Sep 202610:30:28 WIB4.6Pusat gempa berada di laut 57 km timur Kota Bima
