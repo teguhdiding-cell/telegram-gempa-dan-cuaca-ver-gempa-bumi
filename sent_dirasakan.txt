@@ -425,3 +425,4 @@
 24 Sep 202607:26:35 WIB4.3Pusat gempa berada di laut 36 km timur laut Sarmi
 24 Sep 202610:30:28 WIB4.6Pusat gempa berada di laut 57 km timur Kota Bima
 25 Sep 202604:01:35 WIB3.7Pusat gempa berada di darat 17 km Timur Jantho Aceh Besar
+25 Sep 202615:04:42 WIB2.4Pusat gempa berada di darat 10 km selatan Kab. Cianjur
