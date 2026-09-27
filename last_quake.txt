@@ -325,3 +325,4 @@
 26 Sep 202602:39:29 WIB4.9Pusat gempa berada di laut 46 km utara Ruteng-Manggarai
 27 Sep 202602:37:02 WIB4.9Pusat gempa berada di laut 61 km utara Ruteng, Manggarai
 27 Sep 202618:29:00 WIB2.5Pusat gempa berada di darat 2.7 km timur laut Mamasa
+28 Sep 202600:54:05 WIB3.4Pusat gempa berada di darat 18 km barat Bener Meriah
