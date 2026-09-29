@@ -434,3 +434,4 @@
 28 Sep 202611:30:48 WIB4.5Pusat gempa berada di laut 57 km Utara Ruteng-Manggarai
 28 Sep 202617:41:49 WIB4.2Pusat gempa berada di laut 60 km utara Ruteng, Manggarai
 28 Sep 202621:43:09 WIB4.5Pusat gempa berada di laut 127 km Barat Daya Kota Sabang
+29 Sep 202621:39:13 WIB3.1Pusat gempa berada di darat 5 km Barat Kolaka
