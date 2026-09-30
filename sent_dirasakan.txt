@@ -436,3 +436,4 @@
 28 Sep 202621:43:09 WIB4.5Pusat gempa berada di laut 127 km Barat Daya Kota Sabang
 29 Sep 202621:39:13 WIB3.1Pusat gempa berada di darat 5 km Barat Kolaka
 30 Sep 202608:33:16 WIB4.6Pusat gempa berada di laut 40 km barat daya Bayah
+30 Sep 202609:35:54 WIB4.1Pusat gempa berada di laut 54 km barat laut Calang-Aceh Jaya
