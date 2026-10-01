@@ -439,3 +439,4 @@
 30 Sep 202609:35:54 WIB4.1Pusat gempa berada di laut 54 km barat laut Calang-Aceh Jaya
 30 Sep 202617:58:51 WIB4.7Pusat gempa berada di laut 26 km Barat Kab. Kupang
 01 Okt 202607:43:06 WIB3.1Pusat gempa berada di Laut 31 km Barat Kab. Kupang
+01 Okt 202613:24:52 WIB3.2Pusat gempa berada di darat 15 km Barat Laut Sentani
