@@ -335,3 +335,4 @@
 01 Okt 202607:43:06 WIB3.1Pusat gempa berada di Laut 31 km Barat Kab. Kupang
 01 Okt 202613:24:52 WIB3.2Pusat gempa berada di darat 15 km Barat Laut Sentani
 01 Okt 202621:20:00 WIB5.1Pusat gempa berada di laut 111 km tenggara Selayar
+02 Okt 202607:46:54 WIB3.8Pusat gempa berada di laut 29 km barat daya Tabanan
