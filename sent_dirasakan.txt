@@ -447,3 +447,4 @@
 02 Okt 202618:34:10 WIB2.1Pusat gempa berada di darat 2 km Barat Kolaka
 04 Okt 202605:55:52 WIB6.1Pusat gempa berada di Laut 14 km baratdaya Kodi-Sumba baratdaya
 04 Okt 202606:37:31 WIB5.9Pusat gempa berada di laut 68 km barat daya Calang
+04 Okt 202608:31:56 WIB4.2Pusat gempa berada di laut 61 km selatan Kab. Sukabumi
