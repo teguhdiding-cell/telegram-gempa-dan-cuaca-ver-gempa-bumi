@@ -341,3 +341,4 @@
 04 Okt 202608:31:56 WIB4.2Pusat gempa berada di laut 61 km selatan Kab. Sukabumi
 04 Okt 202618:22:20 WIB4.0Pusat gempa berada di laut 49 Km utara Ruteng, Manggarai
 04 Okt 202621:59:43 WIB4.8Pusat gempa berada di laut 13 km Selatan Kodi-Sumba Barat Daya
+05 Okt 202606:19:11 WIB3.9Pusat gempa berada di laut 6 Km selatan Kodi, Sumba Barat Daya

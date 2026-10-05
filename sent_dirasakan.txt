@@ -455,3 +455,4 @@
 04 Okt 202619:36:47 WIB4.6Pusat gempa berada di laut 149 km selatan Kab. Malang
 04 Okt 202621:47:58 WIB4.0Pusat gempa berada di laut 56 km Tenggara Kab. Sukabumi
 04 Okt 202621:59:43 WIB4.8Pusat gempa berada di laut 13 km Selatan Kodi-Sumba Barat Daya
+05 Okt 202606:19:11 WIB3.9Pusat gempa berada di laut 6 Km selatan Kodi, Sumba Barat Daya
