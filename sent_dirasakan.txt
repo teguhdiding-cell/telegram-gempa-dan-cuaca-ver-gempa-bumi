@@ -461,3 +461,4 @@
 05 Okt 202619:46:17 WIB3.1Pusat gempa berada di darat 24 km baratlaut Maumere, Sikka
 05 Okt 202620:05:49 WIB4.3Pusat gempa berada di laut 49 km Utara Ruteng, Manggarai
 05 Okt 202620:06:22 WIB3.8Pusat gempa berada di darat 42 km timur laut Ruteng, Manggarai
+06 Okt 202604:38:04 WIB4.6Pusat gempa berada di laut 14 km selatan Kodi, Sumba Barat Daya
