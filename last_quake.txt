@@ -347,3 +347,4 @@
 06 Okt 202604:38:04 WIB4.6Pusat gempa berada di laut 14 km selatan Kodi, Sumba Barat Daya
 06 Okt 202610:42:45 WIB4.4Pusat gempa berada di laut 84 km Utara Ruteng
 06 Okt 202620:53:22 WIB3.9Pusat gempa berada di laut 35 km barat daya Sumur
+07 Okt 202603:15:26 WIB5.2Pusat gempa berada di darat 9 km tenggara Lombok Barat
