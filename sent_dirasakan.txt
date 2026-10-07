@@ -468,3 +468,4 @@
 06 Okt 202620:11:23 WIB5.3Pusat gempa berada di laut 219 Km timur laut Tarakan
 06 Okt 202620:53:22 WIB3.9Pusat gempa berada di laut 35 km barat daya Sumur
 07 Okt 202603:15:26 WIB5.2Pusat gempa berada di darat 9 km tenggara Lombok Barat
+07 Okt 202604:56:46 WIB4.8Pusat gempa berada di darat 31 km tenggara Yalimo
