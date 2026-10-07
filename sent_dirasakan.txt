@@ -471,3 +471,5 @@
 07 Okt 202604:56:46 WIB4.8Pusat gempa berada di darat 31 km tenggara Yalimo
 07 Okt 202610:09:28 WIB4.0Pusat gempa berada di laut 61 km Utara Ruteng, Manggarai
 07 Okt 202612:44:23 WIB4.0Pusat gempa berada di laut 13 km Timur Manokwari
+07 Okt 202614:28:20 WIB3.5Pusat gempa berada di laut 9 km Selatan Kodi, Sumba Barat Daya
+07 Okt 202619:03:42 WIB4.2Pusat gempa berada di laut 39 km Utara Mbay-Nagekeo
