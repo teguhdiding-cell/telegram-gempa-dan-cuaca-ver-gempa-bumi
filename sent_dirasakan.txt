@@ -474,3 +474,5 @@
 07 Okt 202614:28:20 WIB3.5Pusat gempa berada di laut 9 km Selatan Kodi, Sumba Barat Daya
 07 Okt 202619:03:42 WIB4.2Pusat gempa berada di laut 39 km Utara Mbay-Nagekeo
 08 Okt 202609:30:17 WIB3.9Pusat gempa berada di darat 6 km Timur Laut Waikabubak
+08 Okt 202615:07:56 WIB5.8Pusat gempa berada di laut 230 km barat laut Tahuna - Kep.Sangihe
+08 Okt 202616:21:53 WIB3.0Pusat gempa berada di darat 40 km Barat Parigi Moutong
