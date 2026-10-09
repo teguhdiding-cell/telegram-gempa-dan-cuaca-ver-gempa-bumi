@@ -354,3 +354,4 @@
 08 Okt 202609:30:17 WIB3.9Pusat gempa berada di darat 6 km Timur Laut Waikabubak
 08 Okt 202616:21:53 WIB3.0Pusat gempa berada di darat 40 km Barat Parigi Moutong
 09 Okt 202601:06:02 WIB4.7Pusat gempa berada di laut 39 km utara Waingapu
+09 Okt 202616:47:46 WIB4.6Pusat gempa berada di laut 56 km timur laut Pulau Sipora, Kepulauan Mentawai
