@@ -481,3 +481,5 @@
 09 Okt 202612:11:04 WIB5.1Pusat gempa berada di laut 125 km Tenggara Bitung
 09 Okt 202616:47:46 WIB4.6Pusat gempa berada di laut 56 km timur laut Pulau Sipora, Kepulauan Mentawai
 09 Okt 202617:34:55 WIB2.4Pusat gempa berada di darat 12 km barat Kendari
+10 Okt 202618:53:23 WIB4.4Pusat gempa berada di laut 100 km barat daya Pacitan
+10 Okt 202619:28:18 WIB4.0Pusat gempa berada di laut 50 km selatan Aceh Singkil
