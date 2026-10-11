@@ -483,3 +483,4 @@
 09 Okt 202617:34:55 WIB2.4Pusat gempa berada di darat 12 km barat Kendari
 10 Okt 202618:53:23 WIB4.4Pusat gempa berada di laut 100 km barat daya Pacitan
 10 Okt 202619:28:18 WIB4.0Pusat gempa berada di laut 50 km selatan Aceh Singkil
+11 Okt 202617:17:12 WIB4.0Pusat gempa berada di darat 5 km selatan Pasaman
