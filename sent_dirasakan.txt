@@ -488,3 +488,5 @@
 12 Okt 202605:07:28 WIB4.5Pusat gempa berada di darat 7 km tenggara Deiyai
 12 Okt 202612:19:47 WIB4.6Pusat gempa berada di laut 38 km Barat Daya Muarabinuangeun
 12 Okt 202612:28:13 WIB4.1Pusat gempa berada di laut 44 km selatan Kab. Blitar
+12 Okt 202618:58:07 WIB4.6Pusat gempa berada di laut 121 km BaratDaya Lumajang, Jawa Timur
+12 Okt 202621:27:04 WIB3.3Pusat gempa berada di laut 43 km Utara Ruteng, Manggarai

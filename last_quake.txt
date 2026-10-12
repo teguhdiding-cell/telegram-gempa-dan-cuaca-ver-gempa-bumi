@@ -362,3 +362,4 @@
 12 Okt 202604:34:53 WIB5.7Pusat gempa berada di darat 29 km barat laut Pohuwato
 12 Okt 202605:07:28 WIB4.5Pusat gempa berada di darat 7 km tenggara Deiyai
 12 Okt 202612:28:13 WIB4.1Pusat gempa berada di laut 44 km selatan Kab. Blitar
+12 Okt 202621:27:04 WIB3.3Pusat gempa berada di laut 43 km Utara Ruteng, Manggarai
