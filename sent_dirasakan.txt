@@ -491,3 +491,7 @@
 12 Okt 202618:58:07 WIB4.6Pusat gempa berada di laut 121 km BaratDaya Lumajang, Jawa Timur
 12 Okt 202621:27:04 WIB3.3Pusat gempa berada di laut 43 km Utara Ruteng, Manggarai
 12 Okt 202623:56:33 WIB4.3Pusat gempa berada di laut 19 km Selatan Kodi, Sumba Barat Daya
+13 Okt 202611:00:21 WIB4.9Pusat gempa berada di laut 141 km barat daya Jembrana
+13 Okt 202613:42:28 WIB4.6Pusat gempa berada di laut 15 km selatan Kodi-Sumba Barat Daya
+13 Okt 202616:48:27 WIB4.3Pusat gempa berada di laut 27 km selatan Kodi, Sumba Barat Daya
+13 Okt 202617:22:02 WIB4.5Pusat gempa berada di laut 103 km selatan Pacitan
