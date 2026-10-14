@@ -365,3 +365,4 @@
 12 Okt 202621:27:04 WIB3.3Pusat gempa berada di laut 43 km Utara Ruteng, Manggarai
 12 Okt 202623:56:33 WIB4.3Pusat gempa berada di laut 19 km Selatan Kodi, Sumba Barat Daya
 13 Okt 202617:22:02 WIB4.5Pusat gempa berada di laut 103 km selatan Pacitan
+14 Okt 202617:30:57 WIB3.8Pusat gempa berada di laut 53 km utara Ruteng, Manggarai
