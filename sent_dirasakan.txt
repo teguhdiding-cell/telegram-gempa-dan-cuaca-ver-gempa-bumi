@@ -496,3 +496,5 @@
 13 Okt 202616:48:27 WIB4.3Pusat gempa berada di laut 27 km selatan Kodi, Sumba Barat Daya
 13 Okt 202617:22:02 WIB4.5Pusat gempa berada di laut 103 km selatan Pacitan
 14 Okt 202617:30:57 WIB3.8Pusat gempa berada di laut 53 km utara Ruteng, Manggarai
+15 Okt 202617:49:43 WIB3.5Pusat gempa berada di darat 25 km utara Kab. Sukabumi
+15 Okt 202617:58:23 WIB4.1Pusat gempa berada di darat 26 km barat daya kota Bogor
