@@ -369,3 +369,4 @@
 15 Okt 202617:58:23 WIB4.1Pusat gempa berada di darat 26 km barat daya kota Bogor
 15 Okt 202622:32:38 WIB2.7Pusat gempa berada di darat 21 km barat Kab. Garut
 16 Okt 202610:21:55 WIB2.5Pusat gempa berada di darat 21 km Barat Daya Kota Bogor
+16 Okt 202621:22:04 WIB2.3Pusat gempa berada di darat 26 km Barat Daya Kota Bogor
