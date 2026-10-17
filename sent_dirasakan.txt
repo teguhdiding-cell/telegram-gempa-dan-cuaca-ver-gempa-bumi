@@ -502,3 +502,4 @@
 16 Okt 202610:21:55 WIB2.5Pusat gempa berada di darat 21 km Barat Daya Kota Bogor
 16 Okt 202621:22:04 WIB2.3Pusat gempa berada di darat 26 km Barat Daya Kota Bogor
 17 Okt 202615:20:52 WIB4.2Pusat gempa berada di Laut 11 km TimurLaut Kota Sorong
+17 Okt 202619:46:17 WIB4.6Pusat gempa berada di laut 49 km Barat KODI-SUMBABARATDAYA
