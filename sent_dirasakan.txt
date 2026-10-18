@@ -504,3 +504,5 @@
 17 Okt 202615:20:52 WIB4.2Pusat gempa berada di Laut 11 km TimurLaut Kota Sorong
 17 Okt 202619:46:17 WIB4.6Pusat gempa berada di laut 49 km Barat KODI-SUMBABARATDAYA
 17 Okt 202622:45:27 WIB2.6Pusat gempa berada di darat 39 km selatan Morowali Utara
+18 Okt 202615:00:08 WIB5.3Pusat gempa berada di laut 60 km timur laut Labuan Bajo
+18 Okt 202615:02:46 WIB4.1Pusat gempa berada di laut 56 km utara Ruteng
