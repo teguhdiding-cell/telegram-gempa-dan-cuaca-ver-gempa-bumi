@@ -506,3 +506,7 @@
 17 Okt 202622:45:27 WIB2.6Pusat gempa berada di darat 39 km selatan Morowali Utara
 18 Okt 202615:00:08 WIB5.3Pusat gempa berada di laut 60 km timur laut Labuan Bajo
 18 Okt 202615:02:46 WIB4.1Pusat gempa berada di laut 56 km utara Ruteng
+19 Okt 202616:45:57 WIB4.8Pusat gempa berada di laut 45 km timur laut Labuan Bajo
+19 Okt 202617:10:56 WIB4.7Pusat gempa berada di laut 61 km utara Labuan Bajo
+19 Okt 202619:06:02 WIB4.5Pusat gempa berada di laut 60 km Utara Labuanbajo
+19 Okt 202620:46:11 WIB4.2Pusat gempa berada di darat 26 km Timur Laut Kab. Gayo Lues
