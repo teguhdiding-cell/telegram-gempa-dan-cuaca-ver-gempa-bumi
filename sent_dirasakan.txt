@@ -510,3 +510,5 @@
 19 Okt 202617:10:56 WIB4.7Pusat gempa berada di laut 61 km utara Labuan Bajo
 19 Okt 202619:06:02 WIB4.5Pusat gempa berada di laut 60 km Utara Labuanbajo
 19 Okt 202620:46:11 WIB4.2Pusat gempa berada di darat 26 km Timur Laut Kab. Gayo Lues
+20 Okt 202616:56:38 WIB3.4Pusat gempa berada di darat 30km Barat Daya Kab. Kupang
+20 Okt 202618:28:11 WIB3.7Pusat gempa berada di laut 6 km Barat Laut Pulau Saringi

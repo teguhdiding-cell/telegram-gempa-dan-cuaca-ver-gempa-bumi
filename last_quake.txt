@@ -375,3 +375,4 @@
 17 Okt 202622:45:27 WIB2.6Pusat gempa berada di darat 39 km selatan Morowali Utara
 18 Okt 202615:02:46 WIB4.1Pusat gempa berada di laut 56 km utara Ruteng
 19 Okt 202620:46:11 WIB4.2Pusat gempa berada di darat 26 km Timur Laut Kab. Gayo Lues
+20 Okt 202618:28:11 WIB3.7Pusat gempa berada di laut 6 km Barat Laut Pulau Saringi
