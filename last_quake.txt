@@ -378,3 +378,4 @@
 20 Okt 202618:28:11 WIB3.7Pusat gempa berada di laut 6 km Barat Laut Pulau Saringi
 20 Okt 202623:29:35 WIB5.4Pusat gempa berada di laut 59 km barat daya Meulaboh
 21 Okt 202618:58:36 WIB2.5Pusat gempa berada di darat 9 km utara Tanggamus
+22 Okt 202617:57:49 WIB5.2Pusat gempa berada di darat 6 km BaratLaut Lebong
