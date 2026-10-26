@@ -518,3 +518,4 @@
 22 Okt 202617:57:49 WIB5.2Pusat gempa berada di darat 6 km BaratLaut Lebong
 25 Okt 202614:40:01 WIB4.7Pusat gempa berada di darat 44 km barat Kab. Aceh Tamiang
 25 Okt 202619:47:26 WIB3.8Pusat gempa berada di laut 13 km timur laut Kota Sorong
+26 Okt 202611:53:42 WIB4.9Pusat gempa berada di laut 30 km timur laut Mbay, Nagekeo
