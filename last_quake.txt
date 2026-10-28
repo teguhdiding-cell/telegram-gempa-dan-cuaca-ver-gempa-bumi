@@ -383,3 +383,4 @@
 25 Okt 202619:47:26 WIB3.8Pusat gempa berada di laut 13 km timur laut Kota Sorong
 26 Okt 202611:53:42 WIB4.9Pusat gempa berada di laut 30 km timur laut Mbay, Nagekeo
 27 Okt 202621:43:13 WIB5.4Pusat gempa berada di laut 137 km Selatan Gunungkidul
+28 Okt 202608:11:54 WIB5.4221 km BaratLaut PULAUKARATUNG-SULUT
