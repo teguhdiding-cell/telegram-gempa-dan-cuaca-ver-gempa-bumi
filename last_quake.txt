@@ -385,3 +385,4 @@
 27 Okt 202621:43:13 WIB5.4Pusat gempa berada di laut 137 km Selatan Gunungkidul
 28 Okt 202608:11:54 WIB5.4221 km BaratLaut PULAUKARATUNG-SULUT
 28 Okt 202616:32:49 WIB5.0187 km BaratLaut TAHUNA-KEP.SANGIHE-SULUT
+28 Okt 202618:59:15 WIB3.4Pusat gempa berada di darat 10 km Utara Tanggamus
