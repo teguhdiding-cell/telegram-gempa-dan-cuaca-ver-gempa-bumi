@@ -387,3 +387,4 @@
 28 Okt 202616:32:49 WIB5.0187 km BaratLaut TAHUNA-KEP.SANGIHE-SULUT
 28 Okt 202618:59:15 WIB3.4Pusat gempa berada di darat 10 km Utara Tanggamus
 29 Okt 202605:06:47 WIB6.4Pusat gempa berada di laut 60 km Baratlaut Larat-Kep.Tanimbar
+29 Okt 202610:26:49 WIB6.0Pusat gempa berada di darat 153 km tenggara Oksibil
