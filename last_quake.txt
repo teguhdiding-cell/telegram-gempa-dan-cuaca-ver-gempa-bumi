@@ -389,3 +389,4 @@
 29 Okt 202605:06:47 WIB6.4Pusat gempa berada di laut 60 km Baratlaut Larat-Kep.Tanimbar
 29 Okt 202610:26:49 WIB6.0Pusat gempa berada di darat 153 km tenggara Oksibil
 30 Okt 202601:58:30 WIB4.3Pusat gempa berada di darat 31 km Timur Laut Kabupaten Gayolues
+30 Okt 202603:32:13 WIB5.3139 km BaratLaut TUAL-MALUKU
