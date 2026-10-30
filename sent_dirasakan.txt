@@ -525,3 +525,4 @@
 29 Okt 202605:06:47 WIB6.4Pusat gempa berada di laut 60 km Baratlaut Larat-Kep.Tanimbar
 29 Okt 202610:26:49 WIB6.0Pusat gempa berada di darat 153 km tenggara Oksibil
 30 Okt 202601:58:30 WIB4.3Pusat gempa berada di darat 31 km Timur Laut Kabupaten Gayolues
+30 Okt 202613:03:45 WIB3.7Pusat gempa berada di 20 km Timur Laut Kota Sorong
