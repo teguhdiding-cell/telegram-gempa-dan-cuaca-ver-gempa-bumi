@@ -391,3 +391,4 @@
 30 Okt 202601:58:30 WIB4.3Pusat gempa berada di darat 31 km Timur Laut Kabupaten Gayolues
 30 Okt 202603:32:13 WIB5.3139 km BaratLaut TUAL-MALUKU
 30 Okt 202613:03:45 WIB3.7Pusat gempa berada di 20 km Timur Laut Kota Sorong
+30 Okt 202617:29:39 WIB3.5Pusat gempa berada di darat 7 km barat daya Samosir
