@@ -528,3 +528,4 @@
 30 Okt 202613:03:45 WIB3.7Pusat gempa berada di 20 km Timur Laut Kota Sorong
 30 Okt 202617:29:39 WIB3.5Pusat gempa berada di darat 7 km barat daya Samosir
 31 Okt 202612:39:20 WIB4.8Pusat gempa berada di laut 97 km barat Kodi, Sumba Barat Daya
+31 Okt 202615:23:13 WIB3.5Pusat gempa berada di laut 13 km tenggara Bahodopi
