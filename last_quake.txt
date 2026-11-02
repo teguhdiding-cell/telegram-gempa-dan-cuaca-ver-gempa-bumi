@@ -396,3 +396,4 @@
 31 Okt 202615:23:13 WIB3.5Pusat gempa berada di laut 13 km tenggara Bahodopi
 01 Nov 202603:48:49 WIB2.8Pusat gempa berada di darat 14 km Timur Laut Kendari
 01 Nov 202612:38:59 WIB4.1Pusat gempa berada di darat 24 km Barat Daya Kab. Pidie Jaya-Aceh
+02 Nov 202607:53:11 WIB5.5Pusat gempa berada di laut 169 km BaratLaut Tanimbar
