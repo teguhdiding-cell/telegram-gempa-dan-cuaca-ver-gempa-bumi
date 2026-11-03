@@ -399,3 +399,4 @@
 02 Nov 202607:53:11 WIB5.5Pusat gempa berada di laut 169 km BaratLaut Tanimbar
 02 Nov 202616:58:58 WIB2.6Pusat gempa berada di darat 9 km Utara Kota Jayapura
 03 Nov 202622:37:50 WIB4.8Pusat gempa berada di laut 86 km Selatan Kota Gorontalo
+04 Nov 202603:28:35 WIB4.1Pusat gempa berada di darat 61 km utara Luwu Timur
