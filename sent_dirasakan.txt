@@ -534,3 +534,5 @@
 02 Nov 202607:53:11 WIB5.5Pusat gempa berada di laut 169 km BaratLaut Tanimbar
 02 Nov 202615:13:10 WIB5.3Pusat gempa berada di darat 1 km Barat Daya Tomohon
 02 Nov 202616:58:58 WIB2.6Pusat gempa berada di darat 9 km Utara Kota Jayapura
+03 Nov 202618:43:49 WIB4.2Pusat gempa berada di laut 42 km Timur Laut Ruteng, Manggarai
+03 Nov 202622:37:50 WIB4.8Pusat gempa berada di laut 86 km Selatan Kota Gorontalo
