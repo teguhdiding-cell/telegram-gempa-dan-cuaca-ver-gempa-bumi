@@ -537,3 +537,5 @@
 03 Nov 202618:43:49 WIB4.2Pusat gempa berada di laut 42 km Timur Laut Ruteng, Manggarai
 03 Nov 202622:37:50 WIB4.8Pusat gempa berada di laut 86 km Selatan Kota Gorontalo
 04 Nov 202603:28:35 WIB4.1Pusat gempa berada di darat 61 km utara Luwu Timur
+04 Nov 202607:46:08 WIB4.6Pusat gempa berada di laut 16 km utara Nabire
+04 Nov 202607:50:34 WIB4.4Pusat gempa berada di laut 88 km timur laut Ruteng, Manggarai
