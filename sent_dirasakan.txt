@@ -540,3 +540,4 @@
 04 Nov 202607:46:08 WIB4.6Pusat gempa berada di laut 16 km utara Nabire
 04 Nov 202607:50:34 WIB4.4Pusat gempa berada di laut 88 km timur laut Ruteng, Manggarai
 04 Nov 202614:56:34 WIB3.4Pusat gempa berada di darat 40 km timur laut Sigi
+06 Nov 202617:30:55 WIB4.3Pusat gempa berada di darat 130 km barat laut Kep. Mentawai
