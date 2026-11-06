@@ -541,3 +541,6 @@
 04 Nov 202607:50:34 WIB4.4Pusat gempa berada di laut 88 km timur laut Ruteng, Manggarai
 04 Nov 202614:56:34 WIB3.4Pusat gempa berada di darat 40 km timur laut Sigi
 06 Nov 202617:30:55 WIB4.3Pusat gempa berada di darat 130 km barat laut Kep. Mentawai
+07 Nov 202600:38:52 WIB3.3Pusat gempa berada di laut 54 km Tenggara Morowali
+07 Nov 202601:32:08 WIB3.5Pusat gempa berada di laut 34 km barat daya Lombok Utara
+07 Nov 202602:07:01 WIB4.9Pusat gempa berada di darat 47 km Timur Laut Sigi
