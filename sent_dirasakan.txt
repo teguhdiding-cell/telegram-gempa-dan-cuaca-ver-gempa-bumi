@@ -545,3 +545,4 @@
 07 Nov 202601:32:08 WIB3.5Pusat gempa berada di laut 34 km barat daya Lombok Utara
 07 Nov 202602:07:01 WIB4.9Pusat gempa berada di darat 47 km Timur Laut Sigi
 07 Nov 202617:05:52 WIB3.0Pusat gempa berada di darat 31 km utara Lombok Timur
+08 Nov 202601:54:12 WIB3.3Pusat gempa berada di darat 20 km timur Kendari
