@@ -407,3 +407,4 @@
 07 Nov 202617:05:52 WIB3.0Pusat gempa berada di darat 31 km utara Lombok Timur
 08 Nov 202601:54:12 WIB3.3Pusat gempa berada di darat 20 km timur Kendari
 09 Nov 202607:44:58 WIB2.5Pusat gempa berada di laut 1 km timur Jailolo
+09 Nov 202617:38:54 WIB3.9Pusat gempa berada di laut 44 km timur laut Mbay-Nagekeo
