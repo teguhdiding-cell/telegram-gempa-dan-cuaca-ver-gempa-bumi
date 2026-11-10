@@ -554,3 +554,4 @@
 10 Nov 202615:34:04 WIB5.3Pusat gempa berada di laut 69 km barat laut Kebar Manokwari
 10 Nov 202621:31:38 WIB4.0Pusat gempa berada di darat 15 km selatan Kota Sukabumi
 10 Nov 202623:04:15 WIB4.0Pusat gempa berada di darat 12 km timur Konawe Selatan
+11 Nov 202605:09:09 WIB4.9Pusat gempa berada di darat 6 km utara Kab. Gayo Lues
