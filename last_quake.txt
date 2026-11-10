@@ -409,3 +409,4 @@
 09 Nov 202607:44:58 WIB2.5Pusat gempa berada di laut 1 km timur Jailolo
 09 Nov 202617:38:54 WIB3.9Pusat gempa berada di laut 44 km timur laut Mbay-Nagekeo
 10 Nov 202608:53:28 WIB5.4Pusat gempa berada di laut 90 km barat daya Tanimbar
+10 Nov 202615:34:04 WIB5.3Pusat gempa berada di laut 69 km barat laut Kebar Manokwari

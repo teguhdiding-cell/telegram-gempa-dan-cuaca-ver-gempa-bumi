@@ -550,3 +550,5 @@
 09 Nov 202616:48:29 WIB5.5Pusat gempa berada di laut 20 km barat laut Seram Bagian Timur
 09 Nov 202617:38:54 WIB3.9Pusat gempa berada di laut 44 km timur laut Mbay-Nagekeo
 10 Nov 202608:53:28 WIB5.4Pusat gempa berada di laut 90 km barat daya Tanimbar
+10 Nov 202607:49:12 WIB4.5Pusat gempa berada di laut 103 km selatan Bolaanguki-Bolsel
+10 Nov 202615:34:04 WIB5.3Pusat gempa berada di laut 69 km barat laut Kebar Manokwari
