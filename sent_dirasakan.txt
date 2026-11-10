@@ -552,3 +552,5 @@
 10 Nov 202608:53:28 WIB5.4Pusat gempa berada di laut 90 km barat daya Tanimbar
 10 Nov 202607:49:12 WIB4.5Pusat gempa berada di laut 103 km selatan Bolaanguki-Bolsel
 10 Nov 202615:34:04 WIB5.3Pusat gempa berada di laut 69 km barat laut Kebar Manokwari
+10 Nov 202621:31:38 WIB4.0Pusat gempa berada di darat 15 km selatan Kota Sukabumi
+10 Nov 202623:04:15 WIB4.0Pusat gempa berada di darat 12 km timur Konawe Selatan
