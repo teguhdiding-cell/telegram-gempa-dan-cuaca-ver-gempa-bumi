@@ -556,3 +556,5 @@
 10 Nov 202623:04:15 WIB4.0Pusat gempa berada di darat 12 km timur Konawe Selatan
 11 Nov 202605:09:09 WIB4.9Pusat gempa berada di darat 6 km utara Kab. Gayo Lues
 11 Nov 202606:05:21 WIB4.3Pusat gempa berada di darat 23 km timur laut Kab. Gayo Lues
+12 Nov 202618:16:30 WIB4.8Pusat gempa berada di laut 73 km Timur Laut Ruteng, Manggarai
+12 Nov 202621:19:05 WIB1.9Pusat gempa berada di darat 13 km utara Kolaka
