@@ -415,3 +415,4 @@
 11 Nov 202606:05:21 WIB4.3Pusat gempa berada di darat 23 km timur laut Kab. Gayo Lues
 12 Nov 202621:19:05 WIB1.9Pusat gempa berada di darat 13 km utara Kolaka
 13 Nov 202602:14:40 WIB4.6Pusat gempa berada di laut 32 km barat laut Pulau Panjang
+13 Nov 202614:31:39 WIB4.1Pusat gempa berada di laut 24 km selatan Enggano

@@ -559,3 +559,5 @@
 12 Nov 202618:16:30 WIB4.8Pusat gempa berada di laut 73 km Timur Laut Ruteng, Manggarai
 12 Nov 202621:19:05 WIB1.9Pusat gempa berada di darat 13 km utara Kolaka
 13 Nov 202602:14:40 WIB4.6Pusat gempa berada di laut 32 km barat laut Pulau Panjang
+13 Nov 202611:49:34 WIB4.9Pusat gempa berada di laut 29 km Barat Laut PULAUPANJANG
+13 Nov 202614:31:39 WIB4.1Pusat gempa berada di laut 24 km selatan Enggano
