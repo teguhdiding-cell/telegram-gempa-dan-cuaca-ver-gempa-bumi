@@ -561,3 +561,4 @@
 13 Nov 202602:14:40 WIB4.6Pusat gempa berada di laut 32 km barat laut Pulau Panjang
 13 Nov 202611:49:34 WIB4.9Pusat gempa berada di laut 29 km Barat Laut PULAUPANJANG
 13 Nov 202614:31:39 WIB4.1Pusat gempa berada di laut 24 km selatan Enggano
+15 Nov 202604:24:20 WIB4.5Pusat gempa berada di laut 56 km utara Ruteng, Manggarai
