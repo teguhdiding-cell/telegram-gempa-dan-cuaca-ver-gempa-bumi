@@ -418,3 +418,4 @@
 13 Nov 202614:31:39 WIB4.1Pusat gempa berada di laut 24 km selatan Enggano
 15 Nov 202604:24:20 WIB4.5Pusat gempa berada di laut 56 km utara Ruteng, Manggarai
 15 Nov 202622:41:15 WIB5.4127 km BaratLaut GORONTALOUTARA-GORONTALO
+16 Nov 202603:51:57 WIB5.4265 km Tenggara BURUSELATAN-MALUKU
