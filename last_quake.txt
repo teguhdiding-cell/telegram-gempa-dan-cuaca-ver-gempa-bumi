@@ -419,3 +419,4 @@
 15 Nov 202604:24:20 WIB4.5Pusat gempa berada di laut 56 km utara Ruteng, Manggarai
 15 Nov 202622:41:15 WIB5.4127 km BaratLaut GORONTALOUTARA-GORONTALO
 16 Nov 202603:51:57 WIB5.4265 km Tenggara BURUSELATAN-MALUKU
+16 Nov 202618:36:57 WIB3.8Pusat gempa berada di darat 12 km Barat Laut Tanggamus-Lampung
