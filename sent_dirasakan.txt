@@ -566,3 +566,18 @@
 17 Nov 202604:11:20 WIB7.1Pusat gempa berada di 130km BaratDaya Maluku Tenggara
 17 Nov 202606:30:16 WIB2.6Pusat gempa berada di darat 10 km selatan Kota Sukabumi
 17 Nov 202607:49:17 WIB4.8Pusat gempa berada di laut 49 km timur laut Ruteng, Manggarai
+18 Nov 202611:41:32 WIB5.8Pusat gempa berada di laut 49 km timur laut Ruteng-Manggarai
+18 Nov 202611:43:31 WIB4.8Pusat gempa berada di laut 48 km utara Ruteng, Manggarai
+18 Nov 202611:55:54 WIB4.4Pusat gempa berada di laut 50 km utara Ruteng, Manggarai
+18 Nov 202611:56:31 WIB4.0Pusat gempa berada di laut 45 km utara Ruteng, Manggarai
+18 Nov 202611:57:28 WIB4.1Pusat gempa berada di laut 49 km utara Ruteng, Manggarai
+18 Nov 202612:01:22 WIB4.2Pusat gempa berada di laut 56 km utara Ruteng, Manggarai
+18 Nov 202612:08:21 WIB4.0Pusat gempa berada di laut 48 km utara Ruteng, Manggarai
+18 Nov 202612:11:30 WIB4.0Pusat gempa berada di laut 54 km utara Ruteng, Manggarai
+18 Nov 202612:15:20 WIB4.2Pusat gempa berada di laut 56 km utara Ruteng, Manggarai
+18 Nov 202612:23:41 WIB4.5Pusat gempa berada di laut 49 km utara Ruteng, Manggarai
+18 Nov 202612:24:54 WIB4.8Pusat gempa berada di laut 60 km utara Ruteng, Manggarai
+18 Nov 202612:48:50 WIB4.1Pusat gempa berada di laut 49 km utara Ruteng, Manggarai
+18 Nov 202612:49:33 WIB4.1Pusat gempa berada di laut 55 km utara Ruteng, Manggarai
+18 Nov 202613:52:16 WIB4.0Pusat gempa berada di laut 57 km utara Ruteng, Manggarai
+18 Nov 202615:01:44 WIB4.2Pusat gempa berada di laut 42 km utara Ruteng-Manggarai
