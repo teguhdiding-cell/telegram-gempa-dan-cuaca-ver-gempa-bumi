@@ -423,3 +423,4 @@
 17 Nov 202604:11:20 WIB7.1Pusat gempa berada di 130km BaratDaya Maluku Tenggara
 17 Nov 202607:49:17 WIB4.8Pusat gempa berada di laut 49 km timur laut Ruteng, Manggarai
 18 Nov 202615:01:44 WIB4.2Pusat gempa berada di laut 42 km utara Ruteng-Manggarai
+18 Nov 202623:11:00 WIB4.0Pusat gempa berada di laut 57 km utara Ruteng - Manggarai
