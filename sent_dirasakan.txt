@@ -587,3 +587,6 @@
 19 Nov 202613:31:50 WIB3.6Pusat gempa berada di darat 20 km timur laut Luwu Timur
 19 Nov 202616:08:41 WIB3.5Pusat gempa berada di darat 19 km timur laut Sumbawa
 20 Nov 202604:42:40 WIB4.3Pusat gempa berada di laut 48 km Ruteng-Manggarai
+20 Nov 202618:33:00 WIB3.7Pusat gempa berada di laut 5 km Utara Kendari
+20 Nov 202618:34:42 WIB3.2Pusat gempa berada di laut 10 km Utara Kendari
+20 Nov 202620:51:01 WIB3.6Pusat gempa berada di laut 57 km utara Ruteng-Manggarai
