@@ -428,3 +428,4 @@
 19 Nov 202616:08:41 WIB3.5Pusat gempa berada di darat 19 km timur laut Sumbawa
 20 Nov 202604:42:40 WIB4.3Pusat gempa berada di laut 48 km Ruteng-Manggarai
 20 Nov 202620:51:01 WIB3.6Pusat gempa berada di laut 57 km utara Ruteng-Manggarai
+21 Nov 202600:50:26 WIB4.6Pusat gempa berada di laut 66 km selatan Kota Sukabumi
