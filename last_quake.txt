@@ -431,3 +431,4 @@
 21 Nov 202600:50:26 WIB4.6Pusat gempa berada di laut 66 km selatan Kota Sukabumi
 21 Nov 202609:37:18 WIB4.0Pusat gempa berada di laut 52 km utara Ruteng, Manggarai
 21 Nov 202616:42:11 WIB7.2Pusat gempa berada di laut 43 km barat laut Maluku Barat Daya
+22 Nov 202606:16:01 WIB4.8Pusat gempa berada di darat 35 km barat laut Sentani

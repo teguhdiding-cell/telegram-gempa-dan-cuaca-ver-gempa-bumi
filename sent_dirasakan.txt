@@ -594,3 +594,5 @@
 21 Nov 202605:16:05 WIB4.1Pusat gempa berada di laut 61 km utara Ruteng, Manggarai
 21 Nov 202609:37:18 WIB4.0Pusat gempa berada di laut 52 km utara Ruteng, Manggarai
 21 Nov 202616:42:11 WIB7.2Pusat gempa berada di laut 43 km barat laut Maluku Barat Daya
+22 Nov 202602:52:18 WIB4.2Pusat gempa berada di laut 34 km Barat Pesisir Selatan
+22 Nov 202606:16:01 WIB4.8Pusat gempa berada di darat 35 km barat laut Sentani
