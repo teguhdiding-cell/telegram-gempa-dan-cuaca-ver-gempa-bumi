@@ -433,3 +433,4 @@
 21 Nov 202616:42:11 WIB7.2Pusat gempa berada di laut 43 km barat laut Maluku Barat Daya
 22 Nov 202606:16:01 WIB4.8Pusat gempa berada di darat 35 km barat laut Sentani
 22 Nov 202606:16:01 WIB4.8Pusat gempa berada di laut 35 km barat laut Sentani
+22 Nov 202614:54:39 WIB5.4Pusat gempa berada di laut 98 km BaratDaya Melonguane
