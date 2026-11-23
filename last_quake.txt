@@ -435,3 +435,4 @@
 22 Nov 202606:16:01 WIB4.8Pusat gempa berada di laut 35 km barat laut Sentani
 22 Nov 202614:54:39 WIB5.4Pusat gempa berada di laut 98 km BaratDaya Melonguane
 23 Nov 202614:36:24 WIB5.487 km TimurLaut MALUKUBRTDAYA
+23 Nov 202618:24:32 WIB5.3241 km TimurLaut RAJAAMPAT-PAPUABRTDY
