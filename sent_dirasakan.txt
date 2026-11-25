@@ -599,3 +599,5 @@
 22 Nov 202606:16:01 WIB4.8Pusat gempa berada di laut 35 km barat laut Sentani
 22 Nov 202614:54:39 WIB5.4Pusat gempa berada di laut 98 km BaratDaya Melonguane
 25 Nov 202612:33:27 WIB4.0Pusat gempa berada di laut 53 km utara Ruteng-Manggarai
+25 Nov 202619:08:11 WIB5.5Pusat gempa berada di laut 56 km timur laut Pulau Puah
+25 Nov 202620:28:30 WIB3.5Pusat gempa berada di darat 29 km Utara Ruteng, Manggarai
