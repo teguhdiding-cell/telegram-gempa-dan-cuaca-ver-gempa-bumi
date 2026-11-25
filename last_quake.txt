@@ -436,3 +436,4 @@
 22 Nov 202614:54:39 WIB5.4Pusat gempa berada di laut 98 km BaratDaya Melonguane
 23 Nov 202614:36:24 WIB5.487 km TimurLaut MALUKUBRTDAYA
 23 Nov 202618:24:32 WIB5.3241 km TimurLaut RAJAAMPAT-PAPUABRTDY
+25 Nov 202612:33:27 WIB4.0Pusat gempa berada di laut 53 km utara Ruteng-Manggarai
