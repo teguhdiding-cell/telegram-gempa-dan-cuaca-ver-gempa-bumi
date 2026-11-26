@@ -438,3 +438,4 @@
 23 Nov 202618:24:32 WIB5.3241 km TimurLaut RAJAAMPAT-PAPUABRTDY
 25 Nov 202612:33:27 WIB4.0Pusat gempa berada di laut 53 km utara Ruteng-Manggarai
 25 Nov 202620:28:30 WIB3.5Pusat gempa berada di darat 29 km Utara Ruteng, Manggarai
+26 Nov 202616:08:39 WIB5.6230 km Tenggara SUMBAWABARAT-NTB
