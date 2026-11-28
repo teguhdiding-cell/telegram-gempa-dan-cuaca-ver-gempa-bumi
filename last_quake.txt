@@ -442,3 +442,4 @@
 26 Nov 202622:40:36 WIB4.2Pusat gempa berada di laut 34 km utara Ransiki
 27 Nov 202610:59:44 WIB2.6Pusat gempa berada di darat 13 km barat Bener Meriah
 28 Nov 202602:28:05 WIB4.3Pusat gempa berada di darat 7 km barat Poso
+28 Nov 202615:30:40 WIB4.6Pusat gempa berada di laut 125 km barat Jantho-Aceh Besar
